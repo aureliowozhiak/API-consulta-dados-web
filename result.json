@@ -1,0 +1,213 @@
+{
+    "search_metadata": {
+        "id": "67dc9f2d4a851df05fa0d488",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c7c7d9ba7100d1ef/67dc9f2d4a851df05fa0d488.json",
+        "created_at": "2025-03-20 23:05:17 UTC",
+        "processed_at": "2025-03-20 23:05:17 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype%3Acsv&oq=dados+completos+de+amazon+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c7c7d9ba7100d1ef/67dc9f2d4a851df05fa0d488.html",
+        "total_time_taken": 2.75
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de amazon filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de amazon filetype:csv",
+        "total_results": 7110,
+        "time_taken_displayed": 0.2,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "entity_type": "related_questions"
+    },
+    "related_questions": [
+        {
+            "question": "Como ver os dados da Amazon?",
+            "snippet": "Para que possamos verificar sua conta, acesse https://sdu.amazon.com.br e siga as instruções. Verifique a identidade de um contato em sua agenda de endereços da Amazon. Se você não tiver essas informações, indique isso selecionando essa opção na página em que solicitamos os dados.",
+            "title": "Solicitações de dados - Serviço de atendimento ao cliente da Amazon",
+            "link": "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GMCLVNNGTFQ7U8DM#:~:text=Para%20que%20possamos%20verificar%20sua,em%20que%20solicitamos%20os%20dados.",
+            "displayed_link": "https://www.amazon.com.br › help › customer › display",
+            "source_logo": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/4b01a39e396751a4aadb8cb94f2354eb463ccbb71c550df1569862900d1f1367.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoak9XTkJRemQzTVVwWlFtYzNMVEpoTVZoa1UwOUdVRkJSYURsWmVqQlRTWEJvUWxKdVNuQjVhVWRPTVRaQ00wRmxWMGt6YTNoeE1Hc3phRmhYWTNsWlJUZzJTVko0U1hsaVJVbE1SVGMwWTA5b05GQlFRbkJWVm14dVVSSVhUSEJmWTFvNE1tUk5ja1JNYzJWTlVIQlpSMm95VVRnYUlrRkRSRmhNTkd4VGVYVkZZVXhYY1hORVFXZFVjRFpWVFdvMWJYbHhiWFV6VlhjIiwiZmN2IjoiMyIsImVpIjoiTHBfY1o4MmRNckRMc2VNUHBZR2oyUTgiLCJxYyI6IkNobGtZV1J2Y3lCamIyMXdiR1YwYjNNZ1pHVWdZVzFoZW05dUVGSjluT0UzUDZJQkFuQjAiLCJxdWVzdGlvbiI6IkNvbW8gdmVyIG9zIGRhZG9zIGRhIEFtYXpvbj8iLCJsayI6ImM1T1NUczdQelZjb1N5MVN5QzlXU0VsTUFaTUtpYm1KVmZsNUFBIiwiYnMiOiJjLU55NEpKeHpzX05WeWhMTFZMSUwxWklTVXdCa3dxT3VZbFYtWG4yRWhQRWpHU2xwSk94S1VrRUstSHk0RklJTEUzTVVjaFhTRXJNUzg1WFNFbkZOR1V0bjVHaWxId2hMbVVRa3dRWUFRIiwiaWQiOiJmY19McF9jWjgyZE1yRExzZU1QcFlHajJROF8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoak9XTkJRemQzTVVwWlFtYzNMVEpoTVZoa1UwOUdVRkJSYURsWmVqQlRTWEJvUWxKdVNuQjVhVWRPTVRaQ00wRmxWMGt6YTNoeE1Hc3phRmhYWTNsWlJUZzJTVko0U1hsaVJVbE1SVGMwWTA5b05GQlFRbkJWVm14dVVSSVhUSEJmWTFvNE1tUk5ja1JNYzJWTlVIQlpSMm95VVRnYUlrRkRSRmhNTkd4VGVYVkZZVXhYY1hORVFXZFVjRFpWVFdvMWJYbHhiWFV6VlhjIiwiZmN2IjoiMyIsImVpIjoiTHBfY1o4MmRNckRMc2VNUHBZR2oyUTgiLCJxYyI6IkNobGtZV1J2Y3lCamIyMXdiR1YwYjNNZ1pHVWdZVzFoZW05dUVGSjluT0UzUDZJQkFuQjAiLCJxdWVzdGlvbiI6IkNvbW8gdmVyIG9zIGRhZG9zIGRhIEFtYXpvbj8iLCJsayI6ImM1T1NUczdQelZjb1N5MVN5QzlXU0VsTUFaTUtpYm1KVmZsNUFBIiwiYnMiOiJjLU55NEpKeHpzX05WeWhMTFZMSUwxWklTVXdCa3dxT3VZbFYtWG4yRWhQRWpHU2xwSk94S1VrRUstSHk0RklJTEUzTVVjaFhTRXJNUzg1WFNFbkZOR1V0bjVHaWxId2hMbVVRa3dRWUFRIiwiaWQiOiJmY19McF9jWjgyZE1yRExzZU1QcFlHajJROF8xIn0%3D"
+        },
+        {
+            "question": "Qual o banco de dados da Amazon?",
+            "snippet": "Amazon MemoryDB Serviço de banco de dados em memória, durável e compatível com Redis OSS para uma performance ultrarrápida.",
+            "title": "AWS banco de dados na nuvem - Amazon Web Services",
+            "link": "https://aws.amazon.com/pt/products/databases/#:~:text=Fechar-,Amazon%20MemoryDB,OSS%20para%20uma%20performance%20ultrarr%C3%A1pida.",
+            "displayed_link": "https://aws.amazon.com › products › databases",
+            "source_logo": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/4b01a39e396751a4aadb8cb94f2354eb66800c45365eb7949ddab8b9cbc6d291.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoak9XTkJRemQzTVVwWlFtYzNMVEpoTVZoa1UwOUdVRkJSYURsWmVqQlRTWEJvUWxKdVNuQjVhVWRPTVRaQ00wRmxWMGt6YTNoeE1Hc3phRmhYWTNsWlJUZzJTVko0U1hsaVJVbE1SVGMwWTA5b05GQlFRbkJWVm14dVVSSVhUSEJmWTFvNE1tUk5ja1JNYzJWTlVIQlpSMm95VVRnYUlrRkRSRmhNTkd4VGVYVkZZVXhYY1hORVFXZFVjRFpWVFdvMWJYbHhiWFV6VlhjIiwiZmN2IjoiMyIsImVpIjoiTHBfY1o4MmRNckRMc2VNUHBZR2oyUTgiLCJxYyI6IkNobGtZV1J2Y3lCamIyMXdiR1YwYjNNZ1pHVWdZVzFoZW05dUVGSjluT0UzUDZJQkFuQjAiLCJxdWVzdGlvbiI6IlF1YWwgbyBiYW5jbyBkZSBkYWRvcyBkYSBBbWF6b24/IiwibGsiOiJHaDl4ZFdGc0lHOGdZbUZ1WTI4Z1pHVWdaR0ZrYjNNZ1pHRWdZVzFoZW05dSIsImJzIjoiYy1OeTRKSnh6c19OVnloTExWTElMMVpJU1V3Qmt3cU91WWxWLVhuMkVoUEVqR1NscEpPeEtVa0VLLUh5NEZJSUxFM01VY2hYU0VyTVM4NVhTRW5GTkdVdG41R2lsSHdoTG1VUWt3UVlBUSIsImlkIjoiZmNfTHBfY1o4MmRNckRMc2VNUHBZR2oyUThfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoak9XTkJRemQzTVVwWlFtYzNMVEpoTVZoa1UwOUdVRkJSYURsWmVqQlRTWEJvUWxKdVNuQjVhVWRPTVRaQ00wRmxWMGt6YTNoeE1Hc3phRmhYWTNsWlJUZzJTVko0U1hsaVJVbE1SVGMwWTA5b05GQlFRbkJWVm14dVVSSVhUSEJmWTFvNE1tUk5ja1JNYzJWTlVIQlpSMm95VVRnYUlrRkRSRmhNTkd4VGVYVkZZVXhYY1hORVFXZFVjRFpWVFdvMWJYbHhiWFV6VlhjIiwiZmN2IjoiMyIsImVpIjoiTHBfY1o4MmRNckRMc2VNUHBZR2oyUTgiLCJxYyI6IkNobGtZV1J2Y3lCamIyMXdiR1YwYjNNZ1pHVWdZVzFoZW05dUVGSjluT0UzUDZJQkFuQjAiLCJxdWVzdGlvbiI6IlF1YWwgbyBiYW5jbyBkZSBkYWRvcyBkYSBBbWF6b24%2FIiwibGsiOiJHaDl4ZFdGc0lHOGdZbUZ1WTI4Z1pHVWdaR0ZrYjNNZ1pHRWdZVzFoZW05dSIsImJzIjoiYy1OeTRKSnh6c19OVnloTExWTElMMVpJU1V3Qmt3cU91WWxWLVhuMkVoUEVqR1NscEpPeEtVa0VLLUh5NEZJSUxFM01VY2hYU0VyTVM4NVhTRW5GTkdVdG41R2lsSHdoTG1VUWt3UVlBUSIsImlkIjoiZmNfTHBfY1o4MmRNckRMc2VNUHBZR2oyUThfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "https://s3.amazonaws.com/el.com.br/portal/uploads/...",
+            "link": "https://s3.amazonaws.com/el.com.br/portal/uploads/1925/arquivos/2A94BCABD28C6FE21FA742A254F55962.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://s3.amazonaws.com/el.com.br/portal/uploads/1925/arquivos/2A94BCABD28C6FE21FA742A254F55962.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECBkQAQ",
+            "displayed_link": "https://s3.amazonaws.com › portal › uploads › arquivos",
+            "favicon": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/54a929bce0f149e597edcef2d56d222cd4bfff312c16619c2c5e6e111aa7b122.png",
+            "snippet": "... DADOS;EMEF PRESIDENTE CASTELO BRANCO;Sim;2021;05/02/2021;Nota Fiscal;14/05/2019;65;;INFORMAQ COMERCIO E LOCACAO DE MAQUINAS LTDA - ME;18.001.903/0001-52 ...",
+            "snippet_highlighted_words": [
+                "DADOS"
+            ],
+            "source": "Amazon.com"
+        },
+        {
+            "position": 2,
+            "title": "Download",
+            "link": "https://s3.amazonaws.com/falextracts/Assistance%20Listings/datagov/AssistanceListings_DataGov_PUBLIC_CURRENT.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://s3.amazonaws.com/falextracts/Assistance%2520Listings/datagov/AssistanceListings_DataGov_PUBLIC_CURRENT.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECBQQAQ",
+            "displayed_link": "https://s3.amazonaws.com › falextracts › datagov › Assi...",
+            "favicon": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/54a929bce0f149e597edcef2d56d222cae3a2e392d1665e82d8645e223bf7458.png",
+            "snippet": "... complete acreage report to account for all cropland on the farm must be ... data to determine the value of the product.\"\",\"\"isApplicable\"\":true ...",
+            "source": "Amazon.com"
+        },
+        {
+            "position": 3,
+            "title": "https://repositorio.dados.gov.br/seges/comprasnet_...",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/05/17/comprasnet-contratos-diario-historicos-2022-05-17.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/05/17/comprasnet-contratos-diario-historicos-2022-05-17.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECBoQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › diario › 2022/05/17",
+            "date": "17 de mai. de 2022",
+            "snippet": "... DADOS: NÚMERO DE REGISTRO NO MTE: MG000400/2022, DATA DE REGISTRO NO ... AMAZON WEB SERVICES, PELO PERÍODO DE 30 (TRINTA) MESES ...",
+            "snippet_highlighted_words": [
+                "DADOS",
+                "AMAZON"
+            ],
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 4,
+            "title": "https://www.gov.br/funai/pt-br/acesso-a-informacao...",
+            "link": "https://www.gov.br/funai/pt-br/acesso-a-informacao/conteudo/dages/cgrl/coal/terceirizados/coordenacoes-regionais/jan-22-site-funai-crs.csv/@@download/file",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/funai/pt-br/acesso-a-informacao/conteudo/dages/cgrl/coal/terceirizados/coordenacoes-regionais/jan-22-site-funai-crs.csv/%40%40download/file&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECBcQAQ",
+            "displayed_link": "https://www.gov.br › jan-22-site-funai-crs.csv › file",
+            "favicon": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/54a929bce0f149e597edcef2d56d222c6b3ca184ad1c1ba61b4df09717618250.jpeg",
+            "snippet": "... informações: Coordenação de Administração e Logística - COAL ... AMAZON SECURITY LTDA;***572062**;ANTONIO ALMIR DE CARVALHO;517330;CR-MAD;06 ...",
+            "snippet_highlighted_words": [
+                "AMAZON"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 5,
+            "title": "DADOS_ABERTOS_ALIMENTO.csv",
+            "link": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_ALIMENTO.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_ALIMENTO.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECB4QAQ",
+            "displayed_link": "https://dados.anvisa.gov.br › dados › DADOS_ABERTO...",
+            "snippet": "... AMAZON COMERCIAL IMPORTADORA E EXPORTAÇÃO LTDA;PALMITO DE AÇAI EM CONSERVA;25013031452200718;ALIMENTO;VEGETAIS EM CONSERVA (PALMITO);07/16/2007 00:00:00 ...",
+            "snippet_highlighted_words": [
+                "AMAZON COMERCIAL IMPORTADORA E EXPORTAÇÃO LTDA"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 6,
+            "title": "https://web3.antaq.gov.br/Portalv3/PDA/Sancionador...",
+            "link": "https://web3.antaq.gov.br/Portalv3/PDA/Sancionadores.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://web3.antaq.gov.br/Portalv3/PDA/Sancionadores.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECDEQAQ",
+            "displayed_link": "https://web3.antaq.gov.br › PDA › Sancionadores",
+            "snippet": "... AMAZON NORTE TRANSPORTE E NAVEGACAO LTDA;Res. nº 912/2007 20 XXX;Multa;R ... dados referentes ao passageiro e local de embarque e destino, agindo em ...",
+            "snippet_highlighted_words": [
+                "AMAZON",
+                "dados"
+            ],
+            "source": "antaq.gov.br"
+        },
+        {
+            "position": 7,
+            "title": "https://repositorio.dados.gov.br/seges/comprasnet_...",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/08/17/comprasnet-contratos-diario-contratos-2022-08-17.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/08/17/comprasnet-contratos-diario-contratos-2022-08-17.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECDUQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › diario › 2022/08/17",
+            "date": "17 de ago. de 2022",
+            "snippet": "... DADOS, COM COBERTURA DE ROAMING NACIONAL, COMPREENDENDO AS LIGAÇÕES TIPO MÓVEL-MÓVEL E MÓVEL-FIXO, COM TECNOLOGIA 4G E ACESSO À INTERNET POR ...",
+            "snippet_highlighted_words": [
+                "DADOS"
+            ],
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 8,
+            "title": "csv - Diálogos CGI.br - Comitê Gestor da Internet",
+            "link": "https://dialogos.cgi.br/assets/files/contribuicoes.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dialogos.cgi.br/assets/files/contribuicoes.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECDMQAQ",
+            "displayed_link": "https://dialogos.cgi.br › assets › files › contribuicoes",
+            "favicon": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/54a929bce0f149e597edcef2d56d222c947200892d74fc0b2602ad3b2afad43c.png",
+            "snippet": "... dados e conteúdos de modo online ou offline com posterior divulgação online ... Amazon Informática LTDA\",\"não\",\"2023-06-20 13:37:06\",\"Uma plataforma ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "Amazon"
+            ],
+            "source": "CGI.br"
+        },
+        {
+            "position": 9,
+            "title": "download Lista de responsáveis com contas julgadas ...",
+            "link": "https://sites.tcu.gov.br/dados-abertos/inidoneos-irregulares/arquivos/resp-contas-julgadas-irregulares.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.tcu.gov.br/dados-abertos/inidoneos-irregulares/arquivos/resp-contas-julgadas-irregulares.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECC0QAQ",
+            "displayed_link": "https://sites.tcu.gov.br › resp-contas-julgadas-irregulares",
+            "favicon": "https://serpapi.com/searches/67dc9f2d4a851df05fa0d488/images/54a929bce0f149e597edcef2d56d222c9510683cfa92ba0d40e0c18796f487c8.png",
+            "snippet": "... DATA TRANSITO JULGADO\"|\"UF\"|\"MUNICIPIO\" \"/FEDERACAO NACIONAL DOS JORNALISTAS ... AMAZON BOOKS & ARTS LTDA\"|\"04.361.294/0001-38\"|\"002.231/2015-8\"|\"https ...",
+            "snippet_highlighted_words": [
+                "AMAZON"
+            ],
+            "source": "Portal TCU"
+        },
+        {
+            "position": 10,
+            "title": "amazon_alexa.csv",
+            "link": "https://psyteachr.github.io/ads-v1/data/amazon_alexa.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://psyteachr.github.io/ads-v1/data/amazon_alexa.csv&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQFnoECC4QAQ",
+            "displayed_link": "https://psyteachr.github.io › ads-v1 › data › amazon_alexa",
+            "snippet": "... Amazon Music but is lacking in other major programs.,1 5,30-Jul-18,Charcoal Fabric,\"We love Alexa! We use her to play music, play radio through iTunes, play ...",
+            "snippet_highlighted_words": [
+                "Amazon"
+            ],
+            "source": "PsyTeachR"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=10&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=10&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=20&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAG",
+            "4": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=30&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAI",
+            "5": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=40&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAK",
+            "6": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=50&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAM",
+            "7": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=60&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAO",
+            "8": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=70&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAQ",
+            "9": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=80&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAS",
+            "10": "https://www.google.com.br/search?q=dados+completos+de+amazon+filetype:csv&sca_esv=bc42cc976f7b3cc2&gl=br&hl=pt&ei=Lp_cZ82dMrDLseMPpYGj2Q8&start=90&sa=N&sstk=Af40H4XVchN1J9kBSKKVIEPh5qGzRtqjYu6fUh4Zxv8JLBYwp32N-Q6poqdqZo_8NV5V9X8gpralBZteUW4eEA9OUUqmjIjW5H5-yA&ved=2ahUKEwjN7MDf4pmMAxWwZWwGHaXAKPsQ8tMDegQICBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+amazon+filetype%3Acsv&start=90"
+        }
+    }
+}
