@@ -1,0 +1,183 @@
+{
+    "search_metadata": {
+        "id": "67ddd750dee1dc2e71c1369a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/51bd6eb9697c3f98/67ddd750dee1dc2e71c1369a.json",
+        "created_at": "2025-03-21 21:17:04 UTC",
+        "processed_at": "2025-03-21 21:17:04 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype%3Acsv&oq=dados+completos+de+gov+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/51bd6eb9697c3f98/67ddd750dee1dc2e71c1369a.html",
+        "total_time_taken": 2.75
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de gov filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de gov filetype:csv",
+        "total_results": 59300,
+        "time_taken_displayed": 0.28,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "https://www.gov.br/senappen/pt-br/servicos/sisdepe...",
+            "link": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados/2024/16o-ciclo-base-de-dados-2024-1-semestre-1.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados/2024/16o-ciclo-base-de-dados-2024-1-semestre-1.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBoQAQ",
+            "displayed_link": "https://www.gov.br › pt-br › sisdepen › bases-de-dados",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f599245ada9b91384f6a9947d6cb34ea30.jpeg",
+            "snippet": "... Data de inauguração do estabelecimento;1.7 O estabelecimento foi concebido como estabelecimento penal ou foi construído para outra utilização e foi adaptado ...",
+            "source": "www.gov.br"
+        },
+        {
+            "position": 2,
+            "title": "https://www.gov.br/cti/pt-br/acesso-a-informacao/d...",
+            "link": "https://www.gov.br/cti/pt-br/acesso-a-informacao/dados-abertos/conjunto-de-dados/CTI_dados_publicacoes_2023.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/cti/pt-br/acesso-a-informacao/dados-abertos/conjunto-de-dados/CTI_dados_publicacoes_2023.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBMQAQ",
+            "displayed_link": "https://www.gov.br › cti › CTI_dados_publicacoes_2023",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f56066b800888fa1215007be07be00d542.jpeg",
+            "snippet": "... gov.br/cti/pt-br/acesso-a-informacao/dados-abertos/conjunto-de-dados/publicacoes-cientificas;Centro de Tecnologia da Informação Renato Archer;Ciência, ...",
+            "snippet_highlighted_words": [
+                "gov",
+                "dados",
+                "dados"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 3,
+            "title": "http://dados.prefeitura.sp.gov.br/dataset/e9b8a70e...",
+            "link": "http://dados.prefeitura.sp.gov.br/dataset/e9b8a70e-aeec-48ee-8da3-641697fd4bde/resource/51384327-6930-48a3-9096-9c66f57f8d45/download/cmbd---geral.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://dados.prefeitura.sp.gov.br/dataset/e9b8a70e-aeec-48ee-8da3-641697fd4bde/resource/51384327-6930-48a3-9096-9c66f57f8d45/download/cmbd---geral.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBsQAQ",
+            "displayed_link": "http://dados.prefeitura.sp.gov.br › dataset › cmbd---geral",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f584ce4db8691fcf0fc674aa69731d6187.png",
+            "snippet": "... dados;Extensão geográfica;Nível de desagregação;Situação do processo;Existe(m), nesta base de dados, informação(ões) classificada(s) em algum grau de sigilo ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "dados"
+            ],
+            "source": "Prefeitura de São Paulo"
+        },
+        {
+            "position": 4,
+            "title": "comprasnet-contratos-diario-terceirizados-2022",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/03/22/comprasnet-contratos-diario-terceirizados-2022-03-22.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2022/03/22/comprasnet-contratos-diario-terceirizados-2022-03-22.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBgQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › diario › 2022/03/22",
+            "snippet": "22 de mar. de 2022 —",
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 5,
+            "title": "comprasnet-contratos-diario-terceirizados-2023",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/03/10/comprasnet-contratos-diario-terceirizados-2023-03-10.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/03/10/comprasnet-contratos-diario-terceirizados-2023-03-10.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBQQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › diario › 2023/03/10",
+            "snippet": "10 de mar. de 2023 —",
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 6,
+            "title": "https://dados.mj.gov.br/dataset/9aabdde5-38dd-4782...",
+            "link": "https://dados.mj.gov.br/dataset/9aabdde5-38dd-4782-838f-fc8eb60c8f15/resource/94fe0297-64a8-4354-a9cf-758973a229ac/download/setembro.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.mj.gov.br/dataset/9aabdde5-38dd-4782-838f-fc8eb60c8f15/resource/94fe0297-64a8-4354-a9cf-758973a229ac/download/setembro.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBIQAQ",
+            "displayed_link": "https://dados.mj.gov.br › resource › download › setembro",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f53b53182e5c6ec65df81c86acb8fa0392.png",
+            "snippet": "Nº;Unidade Gestora;\"Nome da UG Unidade Gestora\";Número do Contrato ;CNPJ;Razão Social da Empresa;CPF;\"Nome completo (sem abreviações)\";Categoria ...",
+            "snippet_highlighted_words": [
+                "completo"
+            ],
+            "source": "mj.gov.br"
+        },
+        {
+            "position": 7,
+            "title": "http://dados.prefeitura.sp.gov.br/ja/dataset/58666...",
+            "link": "http://dados.prefeitura.sp.gov.br/ja/dataset/58666687-c174-4ab3-9f0a-1d0556ffee6a/resource/ec694992-ed3f-4509-8636-dcaa095588e6/download/remuneracao03-2022aticriacao20220329.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://dados.prefeitura.sp.gov.br/ja/dataset/58666687-c174-4ab3-9f0a-1d0556ffee6a/resource/ec694992-ed3f-4509-8636-dcaa095588e6/download/remuneracao03-2022aticriacao20220329.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECBwQAQ",
+            "displayed_link": "http://dados.prefeitura.sp.gov.br › resource › download",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f5abb20223872cf279ba57d5354649af3a.png",
+            "snippet": "Exceção;Nome completo;Cargo Base;Cargo em Comissão;Remuneração do Mês;Demais Elementos da Remuneração;Remuneração Bruta;Unidade;Tp. Log;Logadrouro;Número ...",
+            "snippet_highlighted_words": [
+                "completo"
+            ],
+            "source": "Prefeitura de São Paulo"
+        },
+        {
+            "position": 8,
+            "title": "http://www.dados.recife.pe.gov.br/sr/datastore/dum...",
+            "link": "http://www.dados.recife.pe.gov.br/sr/datastore/dump/ccfe7f85-35a7-4089-a17d-c125f9ee952c?bom=True",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.dados.recife.pe.gov.br/sr/datastore/dump/ccfe7f85-35a7-4089-a17d-c125f9ee952c%3Fbom%3DTrue&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECCwQAQ",
+            "displayed_link": "http://www.dados.recife.pe.gov.br › datastore › dump",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f59212cbda0d263312243e53938e69c162.png",
+            "snippet": "... informação protocolado no Portal da Transparência, sob o número 20180000100700024, pela senhora P.M.C.V., vimos, por meio deste, apresentar os dados ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Dados Recife"
+        },
+        {
+            "position": 9,
+            "title": "Descrição das verificações - Ranking Siconfi",
+            "link": "https://ranking-municipios.tesouro.gov.br/static/data/down_loads/descricao_ranking.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://ranking-municipios.tesouro.gov.br/static/data/down_loads/descricao_ranking.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECC4QAQ",
+            "displayed_link": "https://ranking-municipios.tesouro.gov.br › down_loads",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f5493bc5fb0bf6c05dc570b9448b6ca329.png",
+            "snippet": "... Ministério Público e Defensoria Pública;RGF;Verificação de entrega ... dados do poder executivo iguais entre meses diferentes;MSC;MSCs do executivo ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Ranking Siconfi"
+        },
+        {
+            "position": 10,
+            "title": "Dados e-SIC 2018 atualizado em",
+            "link": "https://macapa.ap.gov.br/wp-content/uploads/2019/07/E_SIC_2018.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://macapa.ap.gov.br/wp-content/uploads/2019/07/E_SIC_2018.csv&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8QFnoECC0QAQ",
+            "displayed_link": "https://macapa.ap.gov.br › uploads › 2019/07 › E_SIC...",
+            "favicon": "https://serpapi.com/searches/67ddd750dee1dc2e71c1369a/images/35ab59e6f9bd313614e89c9bbb9241f5bc84bf0e407ccfa75e63d31c41a6fa65.png",
+            "snippet": "... GOV.BR OBS. ESTA OUVIDORIA GERAL TAMBÉM ESTARÁ ENVIANDO AS INFORMAÇňES PELO E-MAIL INFORMADO, ASSIM QUE ESTAS FOREM DISPONIBILIZADAS PELA SECRETARIA ...",
+            "snippet_highlighted_words": [
+                "GOV"
+            ],
+            "source": "Prefeitura Municipal de Macapá"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=10&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8NMDegQICRAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=10&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=20&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAG",
+            "4": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=30&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAI",
+            "5": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=40&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAK",
+            "6": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=50&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAM",
+            "7": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=60&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAO",
+            "8": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=70&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAQ",
+            "9": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=80&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAS",
+            "10": "https://www.google.com.br/search?q=dados+completos+de+gov+filetype:csv&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=UtfdZ8XRLZaW4-EPvJXm-QY&start=90&sa=N&sstk=Af40H4W34xRjZ24qeQnZMMURy90VabY31ngsoBvCHqXKYZtzMKm0UBlq124dv3Z-kHKOgZuIKPSlV9IgZTI93J8W_lsx5OyCrLotNw&ved=2ahUKEwjFwsm2jJyMAxUWyzgGHbyKOW8Q8tMDegQICRAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+gov+filetype%3Acsv&start=90"
+        }
+    }
+}

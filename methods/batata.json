@@ -1,0 +1,342 @@
+{
+    "search_metadata": {
+        "id": "67ddd9479e4a36acb16fc8f6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/aa7cb3ddec5ec9ed/67ddd9479e4a36acb16fc8f6.json",
+        "created_at": "2025-03-21 21:25:27 UTC",
+        "processed_at": "2025-03-21 21:25:27 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&oq=dados+or+dataset+++batata+filetype%3Apdf+site%3A&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/aa7cb3ddec5ec9ed/67ddd9479e4a36acb16fc8f6.html",
+        "total_time_taken": 2.6
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados or dataset   batata filetype:pdf site:",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados or dataset   batata filetype:pdf site:",
+        "total_results": 289000,
+        "time_taken_displayed": 0.29,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "entity_type": "related_questions"
+    },
+    "related_questions": [
+        {
+            "question": "Quais são os nomes dados à batata?",
+            "snippet": null,
+            "title": "Vem ver!",
+            "date": "26 de mai. de 2022",
+            "link": "https://www.deliway.com.br/blog/tipos-de-batata",
+            "list": [
+                "Batata-inglesa. A mais tradicional das batatas, muito usada na cozinha brasileira para qualquer prato, porém, seu teor de amido e água são baixos. ... ",
+                "Baroa. ... ",
+                "Batata-doce. ... ",
+                "Bolinha. ... ",
+                "Asterix. ... ",
+                "Baraka. ... ",
+                "Yacon."
+            ],
+            "displayed_link": "https://www.deliway.com.br › blog › tipos-de-batata",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdp6A252cnqielR_ctxuh2yrji2sSwZBBJhnD5LkHOag&s",
+            "source_logo": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/8a8fbddcc377509343cd272afbe127929a1da3fcee37871ca2cc86689c250ab4.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhaXMgc8OjbyBvcyBub21lcyBkYWRvcyDDoCBiYXRhdGE/IiwibGsiOiJjNU5TS2l4TnpDeFdLRDY4T0Y4aHYxZ2hMejgzdFZnaEpURUZ5RTVVU0Vvc0FVSUEiLCJicyI6ImMtUHk1MUlKTEUzTUxGWW9Qcnc0WHlHX1dDRXZQemUxV0NFbE1RWElQcnhBSVNteEJBanRKV2JIR2FsSUtSWGlWSm9JVmNuVnc4amxCRFF4UnlFdFB4TW9tcEtmbW5kNGVhSkNZV21xUW5KaWFYRi1LVkFpTjFVaE1WOGhKYk1xTXpleENLZ291VFNucExRSXFEZ1JidC02TWlObktjZENTZzNpc3VHU2NzN1BCYXBKTFU3T1R5cktMRXJNVlVEWXNsVFJTRnBLTWhtWEFxNFlMaTJ3WHhJVkNvb3k4NUl6QzREc2dxTEVkSWd6RXROU1N4S1JUUHNTWnFRdHBWbElyQVlCUmdBIiwiaWQiOiJmY19TZG5kWjZMV044VGs1Tm9QMXFxekFRXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhaXMgc8OjbyBvcyBub21lcyBkYWRvcyDDoCBiYXRhdGE%2FIiwibGsiOiJjNU5TS2l4TnpDeFdLRDY4T0Y4aHYxZ2hMejgzdFZnaEpURUZ5RTVVU0Vvc0FVSUEiLCJicyI6ImMtUHk1MUlKTEUzTUxGWW9Qcnc0WHlHX1dDRXZQemUxV0NFbE1RWElQcnhBSVNteEJBanRKV2JIR2FsSUtSWGlWSm9JVmNuVnc4amxCRFF4UnlFdFB4TW9tcEtmbW5kNGVhSkNZV21xUW5KaWFYRi1LVkFpTjFVaE1WOGhKYk1xTXpleENLZ291VFNucExRSXFEZ1JidC02TWlObktjZENTZzNpc3VHU2NzN1BCYXBKTFU3T1R5cktMRXJNVlVEWXNsVFJTRnBLTWhtWEFxNFlMaTJ3WHhJVkNvb3k4NUl6QzREc2dxTEVkSWd6RXROU1N4S1JUUHNTWnFRdHBWbElyQVlCUmdBIiwiaWQiOiJmY19TZG5kWjZMV044VGs1Tm9QMXFxekFRXzEifQ%3D%3D"
+        },
+        {
+            "question": "Qual foi a doença que causou fome ao dizimar a cultura da batata?",
+            "snippet": "A requeima, devido a sua agressividade, é uma das doenças mais devastadoras da história da humanidade. A doença causou, entre 1845 e 1850, redução de 80% de produção de batata na Irlanda. Como era o alimento básico da população, cerca de 2 milhões de pessoas morreram de fome e 1 milhão emigraram.",
+            "title": "Requeima da batata e tomate - Sinditabaco",
+            "link": "https://www.sinditabaco.com.br/item/requeima-da-batata-e-tomate/#:~:text=A%20requeima%2C%20devido%20a%20sua,fome%20e%201%20milh%C3%A3o%20emigraram.",
+            "displayed_link": "https://www.sinditabaco.com.br › item › requeima-da-bat...",
+            "source_logo": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/8a8fbddcc377509343cd272afbe1279249ed215e8157756bbb03498fd1cb181d.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhbCBmb2kgYSBkb2Vuw6dhIHF1ZSBjYXVzb3UgZm9tZSBhbyBkaXppbWFyIGEgY3VsdHVyYSBkYSBiYXRhdGE/IiwibGsiOiJjNU55TEN4TnpGRkl5ODlVU0ZSSXlVX05PN3c4VWFHd05GVWhPYkcwT0w4VUtKR2JxcENZcjVDU1daV1ptMWdFVkpSY21sTlNXZ1JVbktpUWxGZ0NoQUEiLCJicyI6ImMtUHk1MUlKTEUzTUxGWW9Qcnc0WHlHX1dDRXZQemUxV0NFbE1RWElQcnhBSVNteEJBanRKV2JIR2FsSUtSWGlWSm9JVmNuVnc4amxCRFF4UnlFdFB4TW9tcEtmbW5kNGVhSkNZV21xUW5KaWFYRi1LVkFpTjFVaE1WOGhKYk1xTXpleENLZ291VFNucExRSXFEZ1JidC02TWlObktjZENTZzNpc3VHU2NzN1BCYXBKTFU3T1R5cktMRXJNVlVEWXNsVFJTRnBLTWhtWEFxNFlMaTJ3WHhJVkNvb3k4NUl6QzREc2dxTEVkSWd6RXROU1N4S1JUUHNTWnFRdHBWbElyQVlCUmdBIiwiaWQiOiJmY19TZG5kWjZMV044VGs1Tm9QMXFxekFRXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhbCBmb2kgYSBkb2Vuw6dhIHF1ZSBjYXVzb3UgZm9tZSBhbyBkaXppbWFyIGEgY3VsdHVyYSBkYSBiYXRhdGE%2FIiwibGsiOiJjNU55TEN4TnpGRkl5ODlVU0ZSSXlVX05PN3c4VWFHd05GVWhPYkcwT0w4VUtKR2JxcENZcjVDU1daV1ptMWdFVkpSY21sTlNXZ1JVbktpUWxGZ0NoQUEiLCJicyI6ImMtUHk1MUlKTEUzTUxGWW9Qcnc0WHlHX1dDRXZQemUxV0NFbE1RWElQcnhBSVNteEJBanRKV2JIR2FsSUtSWGlWSm9JVmNuVnc4amxCRFF4UnlFdFB4TW9tcEtmbW5kNGVhSkNZV21xUW5KaWFYRi1LVkFpTjFVaE1WOGhKYk1xTXpleENLZ291VFNucExRSXFEZ1JidC02TWlObktjZENTZzNpc3VHU2NzN1BCYXBKTFU3T1R5cktMRXJNVlVEWXNsVFJTRnBLTWhtWEFxNFlMaTJ3WHhJVkNvb3k4NUl6QzREc2dxTEVkSWd6RXROU1N4S1JUUHNTWnFRdHBWbElyQVlCUmdBIiwiaWQiOiJmY19TZG5kWjZMV044VGs1Tm9QMXFxekFRXzEifQ%3D%3D"
+        },
+        {
+            "question": "Como descobriram a batata?",
+            "snippet": "é nativa da América do Sul, da Cordilheira dos Andes, e foi consumida por populações nativas em tempos remontos há mais de 8.000 anos, estando adaptada aos dias curtos da região. Sua introdução na Europa, por volta de 1570, fez com que a espécie fosse selecionada para tuberização em dias longos.",
+            "title": "Origem e botânica - Portal Embrapa",
+            "link": "https://www.embrapa.br/hortalicas/batata/origem-e-botanica#:~:text=%C3%A9%20nativa%20da%20Am%C3%A9rica%20do,para%20tuberiza%C3%A7%C3%A3o%20em%20dias%20longos.",
+            "displayed_link": "https://www.embrapa.br › batata › origem-e-botanica",
+            "source_logo": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/8a8fbddcc377509343cd272afbe12792058e971da1dd30ae2ae2c494a658dee2.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiQ29tbyBkZXNjb2JyaXJhbSBhIGJhdGF0YT8iLCJsayI6IkdobGpiMjF2SUdSbGMyTnZZbkpwY21GdElHRWdZbUYwWVhSaCIsImJzIjoiYy1QeTUxSUpMRTNNTEZZb1BydzRYeUdfV0NFdlB6ZTFXQ0VsTVFYSVByeEFJU214QkFqdEpXYkhHYWxJS1JYaVZKb0lWY25WdzhqbEJEUXhSeUV0UHhNb21wS2ZtbmQ0ZWFKQ1lXbXFRbkppYVhGLUtWQWlOMVVoTVY4aEpiTXFNemV4Q0tnb3VUU25wTFFJcURnUmJ0LTZNaU5uS2NkQ1NnM2lzdUdTY3M3UEJhcEpMVTdPVHlyS0xFck1WVURZc2xUUlNGcEtNaG1YQXE0WUxpMndYeElWQ29veTg1SXpDNERzZ3FMRWRJZ3pFdE5TU3hLUlRQc1NacVF0cFZsSXJBWUJSZ0EiLCJpZCI6ImZjX1NkbmRaNkxXTjhUazVOb1AxcXF6QVFfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiQ29tbyBkZXNjb2JyaXJhbSBhIGJhdGF0YT8iLCJsayI6IkdobGpiMjF2SUdSbGMyTnZZbkpwY21GdElHRWdZbUYwWVhSaCIsImJzIjoiYy1QeTUxSUpMRTNNTEZZb1BydzRYeUdfV0NFdlB6ZTFXQ0VsTVFYSVByeEFJU214QkFqdEpXYkhHYWxJS1JYaVZKb0lWY25WdzhqbEJEUXhSeUV0UHhNb21wS2ZtbmQ0ZWFKQ1lXbXFRbkppYVhGLUtWQWlOMVVoTVY4aEpiTXFNemV4Q0tnb3VUU25wTFFJcURnUmJ0LTZNaU5uS2NkQ1NnM2lzdUdTY3M3UEJhcEpMVTdPVHlyS0xFck1WVURZc2xUUlNGcEtNaG1YQXE0WUxpMndYeElWQ29veTg1SXpDNERzZ3FMRWRJZ3pFdE5TU3hLUlRQc1NacVF0cFZsSXJBWUJSZ0EiLCJpZCI6ImZjX1NkbmRaNkxXTjhUazVOb1AxcXF6QVFfMSJ9"
+        },
+        {
+            "question": "Qual a principal praga que afeta a batata?",
+            "snippet": "Vaquinha ou larva-alfinete (Diabrotica speciosa, Coleoptera: Chrysomelidae) Conhecida popularmente como larva alfinete, na fase larval, e como vaquinha ou patriota, na fase adulta, é uma das principais pragas da cultura da batata.",
+            "title": "Pragas - Portal Embrapa",
+            "link": "https://www.embrapa.br/hortalicas/batata/pragas#:~:text=Vaquinha%20ou%20larva%2Dalfinete%20(Diabrotica%20speciosa%2C%20Coleoptera%3A%20Chrysomelidae)&text=Conhecida%20popularmente%20como%20larva%20alfinete,pragas%20da%20cultura%20da%20batata.",
+            "displayed_link": "https://www.embrapa.br › hortalicas › batata › pragas",
+            "source_logo": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/8a8fbddcc377509343cd272afbe1279282b2b5ab0c1bfef4282f637f25e2ef37.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhbCBhIHByaW5jaXBhbCBwcmFnYSBxdWUgYWZldGEgYSBiYXRhdGE/IiwibGsiOiJjNVBTTEN4TnpGRklWQ2dveXN4THppd0FzZ3VLRXRNVEZRcExVeFVTMDFKTEVvRnlTWWtsUUFnQSIsImJzIjoiYy1QeTUxSUpMRTNNTEZZb1BydzRYeUdfV0NFdlB6ZTFXQ0VsTVFYSVByeEFJU214QkFqdEpXYkhHYWxJS1JYaVZKb0lWY25WdzhqbEJEUXhSeUV0UHhNb21wS2ZtbmQ0ZWFKQ1lXbXFRbkppYVhGLUtWQWlOMVVoTVY4aEpiTXFNemV4Q0tnb3VUU25wTFFJcURnUmJ0LTZNaU5uS2NkQ1NnM2lzdUdTY3M3UEJhcEpMVTdPVHlyS0xFck1WVURZc2xUUlNGcEtNaG1YQXE0WUxpMndYeElWQ29veTg1SXpDNERzZ3FMRWRJZ3pFdE5TU3hLUlRQc1NacVF0cFZsSXJBWUJSZ0EiLCJpZCI6ImZjX1NkbmRaNkxXTjhUazVOb1AxcXF6QVFfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJRUzFMVkdobGVGSkdkVGxJZWpOUGFVVkZTRVJoUjBaUVZTMHlTREZ0VFZnMlpGbHJhR2c1YUdSelZuZDNUMmQzWm1RelUxQndaVXMxVFZnM1JtbFJhR0ZCV2sxbU9HbEdaa1U0VVROM04xOTFaSHBDWW5JMVEwRklaWGwxYkVKUmR4SVdVMlJ1WkZvMlRGZE9PRlJyTlU1dlVERnhjWHBCVVJvaVFVTkVXRXcwYlRKM1pEUTRUemRMYlU1aWRFeG9MVWRpVlhWMlZrMUtOamxwUVEiLCJmY3YiOiIzIiwiZWkiOiJTZG5kWjZMV044VGs1Tm9QMXFxekFRIiwicWMiOiJDaHhrWVdSdmN5QnZjaUJrWVhSaGMyVjBJR0poZEdGMFlTQnphWFJsRUZKOWRwa2tQNklCQW5CMCIsInF1ZXN0aW9uIjoiUXVhbCBhIHByaW5jaXBhbCBwcmFnYSBxdWUgYWZldGEgYSBiYXRhdGE%2FIiwibGsiOiJjNVBTTEN4TnpGRklWQ2dveXN4THppd0FzZ3VLRXRNVEZRcExVeFVTMDFKTEVvRnlTWWtsUUFnQSIsImJzIjoiYy1QeTUxSUpMRTNNTEZZb1BydzRYeUdfV0NFdlB6ZTFXQ0VsTVFYSVByeEFJU214QkFqdEpXYkhHYWxJS1JYaVZKb0lWY25WdzhqbEJEUXhSeUV0UHhNb21wS2ZtbmQ0ZWFKQ1lXbXFRbkppYVhGLUtWQWlOMVVoTVY4aEpiTXFNemV4Q0tnb3VUU25wTFFJcURnUmJ0LTZNaU5uS2NkQ1NnM2lzdUdTY3M3UEJhcEpMVTdPVHlyS0xFck1WVURZc2xUUlNGcEtNaG1YQXE0WUxpMndYeElWQ29veTg1SXpDNERzZ3FMRWRJZ3pFdE5TU3hLUlRQc1NacVF0cFZsSXJBWUJSZ0EiLCJpZCI6ImZjX1NkbmRaNkxXTjhUazVOb1AxcXF6QVFfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Classificação e detecção de doenças no plantio de batata ...",
+            "link": "https://bdta.abcd.usp.br/directbitstream/0cc4905d-964d-462c-a991-c0dcfeb472e1/Thiago%20Martins.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://bdta.abcd.usp.br/directbitstream/0cc4905d-964d-462c-a991-c0dcfeb472e1/Thiago%2520Martins.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECBgQAQ",
+            "displayed_link": "https://bdta.abcd.usp.br › directbitstream",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c33b9826ef90fd8b0eea6e7f27ea4d5dd8.png",
+            "snippet": "A agricultura auxiliada por tecnologia, em particular a visão computacional e aprendizado de máquina, pode auxiliar provendo informações sobre os cultivos.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 61
+                    },
+                    "extensions": [
+                        "61 páginas"
+                    ]
+                }
+            },
+            "source": "Biblioteca Digital de Trabalhos Acadêmicos da USP"
+        },
+        {
+            "position": 2,
+            "title": "Cultura da batata: pragas e doenças - Instituto Biológico",
+            "link": "https://biologico.agricultura.sp.gov.br/uploads/files/pdf/livros/cultura-batata/livro-batata.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://biologico.agricultura.sp.gov.br/uploads/files/pdf/livros/cultura-batata/livro-batata.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECBAQAQ",
+            "displayed_link": "https://biologico.agricultura.sp.gov.br › livro-batata",
+            "author": "de FJS Salas",
+            "cited_by": "Citado por 6",
+            "snippet": "Cultura da batata: pragas e doenças. / Fernando Javier Sanhueza Salas. São. Paulo: Instituto Biológico, 2017. 241 p. : il. ISBN 978-85-88694-15-6.",
+            "snippet_highlighted_words": [
+                "batata"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 244
+                    },
+                    "extensions": [
+                        "244 páginas"
+                    ]
+                }
+            },
+            "source": "Instituto Biológico"
+        },
+        {
+            "position": 3,
+            "title": "SINOPSE VIRTUAL 01/2021",
+            "link": "https://www.abbabatatabrasileira.com.br/wp-content/uploads/2021/10/SINOPSE-VIRTUAL-01-2021.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abbabatatabrasileira.com.br/wp-content/uploads/2021/10/SINOPSE-VIRTUAL-01-2021.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECA8QAQ",
+            "displayed_link": "https://www.abbabatatabrasileira.com.br › 2021/10",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c334fed40ea2bb6c115538c3bdba892540.png",
+            "snippet": "Com os dados disponibilizados pelo Ministério da Agricultura, Pesca e. Alimentação sobre a cultura, a campanha da batata 2020 na Espanha pode ser considerada ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "batata"
+            ],
+            "source": "ABBA - Associação brasileira da batata"
+        },
+        {
+            "position": 4,
+            "title": "SINOPSE VIRTUAL 04/2020",
+            "link": "https://www.abbabatatabrasileira.com.br/wp-content/uploads/2021/10/SINOPSE-VIRTUAL-04-2020.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.abbabatatabrasileira.com.br/wp-content/uploads/2021/10/SINOPSE-VIRTUAL-04-2020.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECBQQAQ",
+            "displayed_link": "https://www.abbabatatabrasileira.com.br › 2021/10",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c393d4f08c5b4344850b6f662ed975e94c.png",
+            "snippet": "O preço da batata em fevereiro está 10% menor que no mesmo período de. 2019, de acordo com o Centro de Estudos Avançados em Economia Aplicada. (Cepea).",
+            "snippet_highlighted_words": [
+                "batata"
+            ],
+            "source": "ABBA - Associação brasileira da batata"
+        },
+        {
+            "position": 5,
+            "title": "17/06/2002 Hora : Título: Batata Fonte: Autor: Rossana C. ...",
+            "link": "https://www.agricultura.pr.gov.br/sites/default/arquivos_restritos/files/qas/913/batata_17jun2002.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.agricultura.pr.gov.br/sites/default/arquivos_restritos/files/qas/913/batata_17jun2002.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECBEQAQ",
+            "displayed_link": "https://www.agricultura.pr.gov.br › default › files › qas",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c3ef6c0ce5a3ce1be39495ce8dff3f3d07.png",
+            "date": "17 de jun. de 2002",
+            "snippet": "Data : 17/06/2002. Hora : Título: Batata. Fonte: Autor: Rossana C. Bueno de Godoy. Matéria: A batata da seca, no Estado do Paraná, encontra-se ...",
+            "snippet_highlighted_words": [
+                "Batata",
+                "batata"
+            ],
+            "source": "Secretaria da Agricultura e do Abastecimento"
+        },
+        {
+            "position": 6,
+            "title": "universidade federal do tocantins",
+            "link": "http://repositorio.uft.edu.br/bitstream/11612/1911/1/Aldriene%20Divina%20Costa%20da%20Silva%20-%20Disserta%C3%A7%C3%A3o.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://repositorio.uft.edu.br/bitstream/11612/1911/1/Aldriene%2520Divina%2520Costa%2520da%2520Silva%2520-%2520Disserta%25C3%25A7%25C3%25A3o.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECEQQAQ",
+            "displayed_link": "http://repositorio.uft.edu.br › bitstream",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c306e684b51ca6ecc2a01bed52cc02dd3f.png",
+            "author": "de ADC Silva",
+            "date": "2019",
+            "snippet": "• Utilizar a batata-doce como modelo, para o abastecimento do banco de dados. Page 13. 12. 3 FUNDAMENTAÇÃO TEÓRICA. 3.1 Batata-Doce. A batata-doce (Ipomoea ...",
+            "snippet_highlighted_words": [
+                "batata",
+                "dados",
+                "Batata",
+                "batata"
+            ],
+            "source": "Repositório UFT"
+        },
+        {
+            "position": 7,
+            "title": "Produto da agricultura Familiarcaracterísticas do cultiv",
+            "link": "https://www.minadordonegrao.al.gov.br/site/wp-content/uploads/2021/11/Estimado.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.minadordonegrao.al.gov.br/site/wp-content/uploads/2021/11/Estimado.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECEYQAQ",
+            "displayed_link": "https://www.minadordonegrao.al.gov.br › 2021/11",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c3c78bccfda8d2000d32d39cf06391af7c.png",
+            "snippet": "Sem dados físicos e mecânicos oriundos do manuseio e transporte acondicionados em sacos de polietileno, transparentes, atóxico e intacto. KG. 3,000. R$ 3,63.",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Prefeitura Municipal de Minador do Negrão"
+        },
+        {
+            "position": 8,
+            "title": "24/06/2024 15:09 ***.347.206-** Nota de Empenho ...",
+            "link": "https://www.marinha.mil.br/comforaernav/sites/www.marinha.mil.br.comforaernav/files/Execu%C3%A7%C3%A3o%20Financeira/2024NE(330).pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marinha.mil.br/comforaernav/sites/www.marinha.mil.br.comforaernav/files/Execu%25C3%25A7%25C3%25A3o%2520Financeira/2024NE(330).pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECEUQAQ",
+            "displayed_link": "https://www.marinha.mil.br › sites › files",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c3b9b21e3171c83dd01f53ea8fb7b884cd.png",
+            "snippet": "Item compra: 00057 - LEGUME IN NATURA, TIPO BATATA DOCE. Data. Operação. Quantidade Valor Unitário. Valor Total. 21/06/2024 Inclusão. 160,00000 ...",
+            "snippet_highlighted_words": [
+                "BATATA"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 2
+                    },
+                    "extensions": [
+                        "2 páginas"
+                    ]
+                }
+            },
+            "source": "Marinha do Brasil"
+        },
+        {
+            "position": 9,
+            "title": "Data : 23/05/2000 Hora : Título: Batata Fonte: Autor",
+            "link": "https://www.agricultura.pr.gov.br/sites/default/arquivos_restritos/files/qas/1422/batata_23mai2000.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.agricultura.pr.gov.br/sites/default/arquivos_restritos/files/qas/1422/batata_23mai2000.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECD8QAQ",
+            "displayed_link": "https://www.agricultura.pr.gov.br › sites › files › qas",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c350060d01a12df1b68d3b510225414fd3.png",
+            "date": "23 de mai. de 2000",
+            "snippet": "Data : 23/05/2000. Hora : Título: Batata. Fonte: Autor: Rossana C. Bueno de Godoy. Matéria: A previsão do volume de batata a ser ofertado no ...",
+            "snippet_highlighted_words": [
+                "Batata",
+                "batata"
+            ],
+            "source": "Secretaria da Agricultura e do Abastecimento"
+        },
+        {
+            "position": 10,
+            "title": "Lista ESPECIFICADA DE ALIMENTOS PERECÍVEIS",
+            "link": "https://novohorizonte.sc.gov.br/uploads/sites/456/2022/07/LISTA-ESPECIFICADA-DE-ALIMENTOS-PERECIVEIS-2-SEMESTRE-1.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://novohorizonte.sc.gov.br/uploads/sites/456/2022/07/LISTA-ESPECIFICADA-DE-ALIMENTOS-PERECIVEIS-2-SEMESTRE-1.pdf&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQFnoECEAQAQ",
+            "displayed_link": "https://novohorizonte.sc.gov.br › sites › 2022/07",
+            "favicon": "https://serpapi.com/searches/67ddd9479e4a36acb16fc8f6/images/2599338cbdd9c80ed96dfaf8a19ee7c30f2853b3bd9045008bd71ea32814514f.png",
+            "snippet": "CARACTERIZE, POR EXEMPLO: BATATA DOCE, BATATA, CENOURA OU. AIPIM. CONFECCIONADO EM ATÉ 12 HORAS ANTES DA ENTREGA,. INCLUIR NA EMBALAGEM OS INGREDIENTES DE ...",
+            "snippet_highlighted_words": [
+                "BATATA",
+                "BATATA"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 10
+                    },
+                    "extensions": [
+                        "10 páginas"
+                    ]
+                }
+            },
+            "source": "novohorizonte.sc.gov.br"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Principais pragas e doenças da batata-doce",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=Principais+pragas+e+doen%C3%A7as+da+batata-doce&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg-EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Principais+pragas+e+doen%C3%A7as+da+batata-doce"
+        },
+        {
+            "block_position": 1,
+            "query": "Pinta preta batata",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=Pinta+preta+batata&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg9EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Pinta+preta+batata"
+        },
+        {
+            "block_position": 1,
+            "query": "Principais doenças da batata",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=Principais+doen%C3%A7as+da+batata&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg8EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Principais+doen%C3%A7as+da+batata"
+        },
+        {
+            "block_position": 1,
+            "query": "Podridão mole da batata",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=Podrid%C3%A3o+mole+da+batata&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg7EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Podrid%C3%A3o+mole+da+batata"
+        },
+        {
+            "block_position": 1,
+            "query": "nome científico da batata-inglesa",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=nome+cient%C3%ADfico+da+batata-inglesa&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg6EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=nome+cient%C3%ADfico+da+batata-inglesa"
+        },
+        {
+            "block_position": 1,
+            "query": "A cultura da batata pdf",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=A+cultura+da+batata+pdf&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=A+cultura+da+batata+pdf"
+        },
+        {
+            "block_position": 1,
+            "query": "ABBA batata",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=ABBA+batata&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=ABBA+batata"
+        },
+        {
+            "block_position": 1,
+            "query": "Fenologia batata",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&q=Fenologia+batata&sa=X&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ1QJ6BAg5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Fenologia+batata"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=10&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8NMDegQIBxAS",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=10&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAE",
+            "3": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=20&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAG",
+            "4": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=30&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAI",
+            "5": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=40&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAK",
+            "6": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=50&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAM",
+            "7": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=60&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAO",
+            "8": "https://www.google.com.br/search?q=dados+or+dataset+++batata+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&hl=pt&gl=br&ei=SdndZ6LWN8Tk5NoP1qqzAQ&start=70&sa=N&sstk=Af40H4VvMfVI7vwbU-jlibQfXThftVVmyr9KAFz3kg5IW1jXE6Yo8LlOVYk3IQP9HRvL425gxptdtKeEUYL-JgBnt2S-HHDZk-NUNg&ved=2ahUKEwjinsCmjpyMAxVEMlkFHVbVLAAQ8tMDegQIBxAQ"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++batata+filetype%3Apdf+site%3A&start=70"
+        }
+    }
+}

@@ -5,19 +5,15 @@ class Search:
     def __init__(self, api_key):
         self.api_key = api_key
 
-        
-    final_result = {
-        "q": "Busca do usuário",
-        "url": "https://example.com",
-        "url_arquivo": "https://example.com/data.csv",
-        "type": "csv",
-        "Descrição": "LOREM IMPSUM LOREM IMPSUM LOREM IMPSUM LOREM IMPSUM"
-    }
-
     def convert_json_to_result(self, results, q, type):
         for result in results["organic_results"]:
             if result["link"].endswith(".csv"):
-                return {"q": q, "csv_link": result["link"], "type": type}
+                return {
+                    "q": q, 
+                    "url_arquivo": result["link"], 
+                    "type": type,
+                    "Descrição": None
+                    }
         
         return {"q": q, "error": "search not found"}
 

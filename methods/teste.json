@@ -1,0 +1,198 @@
+{
+    "search_metadata": {
+        "id": "67ddd73a448a308aa11c52bc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/273afee43479dd11/67ddd73a448a308aa11c52bc.json",
+        "created_at": "2025-03-21 21:16:42 UTC",
+        "processed_at": "2025-03-21 21:16:42 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype%3Acsv&oq=dados+completos+de+teste+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/273afee43479dd11/67ddd73a448a308aa11c52bc.html",
+        "total_time_taken": 0.83
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de teste filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de teste filetype:csv",
+        "total_results": 3450,
+        "time_taken_displayed": 0.31,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "https://www.gov.br/ebserh/pt-br/hospitais-universi...",
+            "link": "https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-centro-oeste/hub-unb/acesso-a-informacao/dados-abertos-2/numero-de-exames-laboratoriais-de-analises-clinicas-realizados-por-tipo-de-exame-tratada_110321-1.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-centro-oeste/hub-unb/acesso-a-informacao/dados-abertos-2/numero-de-exames-laboratoriais-de-analises-clinicas-realizados-por-tipo-de-exame-tratada_110321-1.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBMQAQ",
+            "displayed_link": "https://www.gov.br › pt-br › hub-unb › dados-abertos-2",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a311a1f99e0daaf06719593a84a1f4ed9.jpeg",
+            "snippet": "Número de exames laboratoriais de análises clínicas realizados por tipo ... TESTE DIRETO DE ANTIGLOBULINA HUMANA (TAD);14;5;13;14;8;8;15;10;13;13;12;41 ...",
+            "snippet_highlighted_words": [
+                "TESTE"
+            ],
+            "source": "www.gov.br"
+        },
+        {
+            "position": 2,
+            "title": "https://www.gov.br/ebserh/pt-br/hospitais-universi...",
+            "link": "https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-centro-oeste/hub-unb/acesso-a-informacao/dados-abertos-2/2022/1o-trimestre-2022/1-7-atendimento-de-laboratorio-de-analises-clinicas-numero-exames-laboratoriais-por-tipo-de-exame-1o-trimestre-2022.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-centro-oeste/hub-unb/acesso-a-informacao/dados-abertos-2/2022/1o-trimestre-2022/1-7-atendimento-de-laboratorio-de-analises-clinicas-numero-exames-laboratoriais-por-tipo-de-exame-1o-trimestre-2022.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBsQAQ",
+            "displayed_link": "https://www.gov.br › pt-br › hub-unb › dados-abertos-2",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a3db41b2d20f05f451ebba1e071fb329a.jpeg",
+            "snippet": "Número de exames laboratoriais de análises clínicas realizados por tipo de ... TESTE DIRETO DE ANTIGLOBULINA HUMANA (TAD);44;15;19;78;;;;;; 0202030075 ...",
+            "snippet_highlighted_words": [
+                "TESTE"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 3,
+            "title": "Download - Dados Abertos - Prefeitura",
+            "link": "http://dados.prefeitura.sp.gov.br/dataset/0683c3e5-8ffc-4e89-b903-c36567165a00/resource/da0ac524-ed46-4906-89a4-82e31f9a4320/download/pedidorespondido2012pub.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://dados.prefeitura.sp.gov.br/dataset/0683c3e5-8ffc-4e89-b903-c36567165a00/resource/da0ac524-ed46-4906-89a4-82e31f9a4320/download/pedidorespondido2012pub.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBgQAQ",
+            "displayed_link": "http://dados.prefeitura.sp.gov.br › dataset › resource",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a819247614916b8fef82f6ebd87ff29aa.png",
+            "snippet": "... Informação e Comunicação do Munic.SP;1;Teste de pedido em ambiente de homologação.;Pedido Registrado no Sistema;23/08/2012 08:13 2;Prazo prorrogado;63 ...",
+            "snippet_highlighted_words": [
+                "Teste"
+            ],
+            "source": "Prefeitura de São Paulo"
+        },
+        {
+            "position": 4,
+            "title": "Dados Abertos Formato CSV",
+            "link": "https://diariooficial.saoluis.ma.gov.br/diario-oficial/exportar-csv?id=27156",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://diariooficial.saoluis.ma.gov.br/diario-oficial/exportar-csv%3Fid%3D27156&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBoQAQ",
+            "displayed_link": "https://diariooficial.saoluis.ma.gov.br › exportar-csv",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2aaf0300e1c54433c01bc1a7105a53f2cf.png",
+            "snippet": "... Dados da Secretaria Municipal de Educação:a ... pessoais (nome completo, e-mail, CPF, telefone) e registrar ... Teste de Lógica;b) Teste de Leitura e ...",
+            "snippet_highlighted_words": [
+                "Dados",
+                "completo",
+                "Teste",
+                "Teste"
+            ],
+            "source": "Diário Oficial - São Luis"
+        },
+        {
+            "position": 5,
+            "title": "Baixar arquivo",
+            "link": "https://pncp.gov.br/api/pncp/v1/orgaos/00394544000185/pca/2023/csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://pncp.gov.br/api/pncp/v1/orgaos/00394544000185/pca/2023/csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBEQAQ",
+            "displayed_link": "https://pncp.gov.br › api › pncp › orgaos › pca › csv",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a3c0e8dabdf6163e9e95e50a7c869032c.jpeg",
+            "snippet": "... TESTE;19027;REAGENTE PARA DIAGNÓSTICO CLÍNICO 6;430725;MÉTODO: IMUNOCROMATOGRAFIA, TIPO DE ANÁLISE: QUALITATIVO DE HIV I E II, TIPO: CONJUNTO COMPLETO ...",
+            "snippet_highlighted_words": [
+                "TESTE",
+                "COMPLETO"
+            ],
+            "source": "pncp.gov.br"
+        },
+        {
+            "position": 6,
+            "title": "csv",
+            "link": "https://www.tre-sp.jus.br/transparencia-e-prestacao-de-contas/governanca-publica-de-tic/planos-de-contratacao-de-stic/planos-de-contratacao-ods/plano-de-contratacoes-de-stic-2024-aquisicoes-csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tre-sp.jus.br/transparencia-e-prestacao-de-contas/governanca-publica-de-tic/planos-de-contratacao-de-stic/planos-de-contratacao-ods/plano-de-contratacoes-de-stic-2024-aquisicoes-csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBcQAQ",
+            "displayed_link": "https://www.tre-sp.jus.br › planos-de-contratacao-ods › p...",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a34cdfa6ce427bc4bb6aec28e1ab2f2d1.png",
+            "snippet": "... Dados;S;\"V – maior vida útil e menor custo de manutenção do bem e da obra ... teste de Invasão sobre aplicação Web, quer no ambiente da rede interna ...",
+            "snippet_highlighted_words": [
+                "Dados",
+                "teste"
+            ],
+            "source": "Tribunal Regional Eleitoral de São Paulo"
+        },
+        {
+            "position": 7,
+            "title": "comprasnet-contratos-diario-itens-2023-01-11.csv",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/01/11/comprasnet-contratos-diario-itens-2023-01-11.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/01/11/comprasnet-contratos-diario-itens-2023-01-11.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECBIQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › seges › comprasnet-co...",
+            "date": "11 de jan. de 2023",
+            "snippet": "... TESTE HIDROSTÁTICO - EXTINTOR DE INCÊNDIO PÓ QUÍMICO BC 4 KG ... DADOS - PROGRAMA ( SOFTWARE ) DE GERENCIAMENTO,BANCO DE DADOS ...",
+            "snippet_highlighted_words": [
+                "TESTE",
+                "DADOS",
+                "DADOS"
+            ],
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 8,
+            "title": "http://www.dados.recife.pe.gov.br/sr/datastore/dum...",
+            "link": "http://www.dados.recife.pe.gov.br/sr/datastore/dump/ccfe7f85-35a7-4089-a17d-c125f9ee952c?bom=True",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.dados.recife.pe.gov.br/sr/datastore/dump/ccfe7f85-35a7-4089-a17d-c125f9ee952c%3Fbom%3DTrue&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECCoQAQ",
+            "displayed_link": "http://www.dados.recife.pe.gov.br › datastore › dump",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a4e24ad93eb4554e250cee86d2a01a7b6.png",
+            "snippet": "... informação protocolado no Portal da Transparência, sob o número 20180000100700024, pela senhora P.M.C.V., vimos, por meio deste, apresentar os dados ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Dados Recife"
+        },
+        {
+            "position": 9,
+            "title": "2023",
+            "link": "https://sistemas.saude.rj.gov.br/tabnetbd/sivep_gripe/sivep_gripe_2023.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://sistemas.saude.rj.gov.br/tabnetbd/sivep_gripe/sivep_gripe_2023.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECCsQAQ",
+            "displayed_link": "https://sistemas.saude.rj.gov.br › sivep_gripe_2023",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a1a1b9329b14ba85e28f3dcf40385ba17.png",
+            "snippet": "... Data do Raio X;Aspecto Tomografia;Data da Tomografia;Coletou amostra;Data da Coleta;Tipo de amostra;Número de requisição no GAL;Tipo do teste para pesquisa ...",
+            "snippet_highlighted_words": [
+                "teste"
+            ],
+            "source": "Saude.RJ"
+        },
+        {
+            "position": 10,
+            "title": "Dados e-SIC 2019",
+            "link": "https://macapa.ap.gov.br/wp-content/uploads/2019/07/E_SIC_2019.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://macapa.ap.gov.br/wp-content/uploads/2019/07/E_SIC_2019.csv&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4QFnoECDAQAQ",
+            "displayed_link": "https://macapa.ap.gov.br › uploads › 2019/07 › E_SIC...",
+            "favicon": "https://serpapi.com/searches/67ddd73a448a308aa11c52bc/images/5e4f2df69391e41172f9768bd254dc2a085d580e58a072d4964eff32ac2b6e0a.png",
+            "snippet": "... COMPLETOS, ONDE ATUAM E SUAS LOTAÇÕES, QUAL O VÃ NCULO COM A PMM (SE EFETIVO OU CONTRATO ADMINISTRATIVO AD NUTUM), EM SÃ NTESE REQUER-SE SABER QUANTOS ...",
+            "snippet_highlighted_words": [
+                "COMPLETOS"
+            ],
+            "source": "Prefeitura Municipal de Macapá"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=10&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8NMDegQIChAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=10&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=20&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAG",
+            "4": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=30&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAI",
+            "5": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=40&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAK",
+            "6": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=50&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAM",
+            "7": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=60&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAO",
+            "8": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=70&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAQ",
+            "9": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=80&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAS",
+            "10": "https://www.google.com.br/search?q=dados+completos+de+teste+filetype:csv&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=OtfdZ_z3L5eyhbIPsM2W8A8&start=90&sa=N&sstk=Af40H4WMDTVCSfCAfex5YXcaUelox9eMmxQGp4391kEHv2jWIJFhZSN5tPs9yUZK8koyW_dAgMssj1sr-rsXc8Ve4lpPWMskFF-Tfw&ved=2ahUKEwj8_JKrjJyMAxUXWUEAHbCmBf4Q8tMDegQIChAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+teste+filetype%3Acsv&start=90"
+        }
+    }
+}

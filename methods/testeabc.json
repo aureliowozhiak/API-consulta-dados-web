@@ -1,0 +1,276 @@
+{
+    "search_metadata": {
+        "id": "67ddd940a515cc7672893235",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5e1620be0fab4b33/67ddd940a515cc7672893235.json",
+        "created_at": "2025-03-21 21:25:20 UTC",
+        "processed_at": "2025-03-21 21:25:20 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&oq=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5e1620be0fab4b33/67ddd940a515cc7672893235.html",
+        "total_time_taken": 1.87
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados or dataset   testeabc filetype:pdf site:",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados or dataset   testeabc filetype:pdf site:",
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "entity_type": "related_questions"
+    },
+    "related_questions": [
+        {
+            "question": "O que o teste ABC avalia?",
+            "snippet": "A que se destinam os Testes ABC de que trata este livro?... Fundamentalmente, a verificar nas crianças que procuram a escola primária o nível de maturidade requerido para a aprendizagem da leitura e da escrita.",
+            "title": "Testes ABC: para verificação da maturidade necessária à ...",
+            "date": "14 de abr. de 2021",
+            "link": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-diversas/historia-da-educacao/testes-abc-para-verificacao-da-maturidade-necessaria-a-aprendizagem-da-leitura-e-da-escrita#:~:text=A%20que%20se%20destinam%20os,da%20leitura%20e%20da%20escrita.",
+            "displayed_link": "https://www.gov.br › inep › pt-br › historia-da-educacao",
+            "source_logo": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/628706f0f5a20e07e4b60d942f758a38d544928b556a798f0b2f3839b8264ba9.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGFYVnVOSHBWWlMxSU9ERlVOVU5NVmxKRVZqUnpURFJhTmtGMGFtMHdOMFoxTURJMVNIRk5jbmRpU1haYU1rdEJVRVZVUmxwdmFWSlJOVmh3WmtwdmNFMURjVXRQYW5kdlJta3pVMnhqTmxBd1FUaE1ka05EVGtaSlFSSVhVV1J1WkZvMVMyMU1UbkpETkMxRlVEYzNYMkZ0UVRRYUlrRkRSRmhNTkd0WFVIcG5TR1pEU1Y5amNEZG9ZbU5QUVZkcGRVRjBkakZ3T1hjIiwiZmN2IjoiMyIsImVpIjoiUWRuZFo1S21MTnJDNC1FUDc3X2FtQTQiLCJxYyI6IkNoNWtZV1J2Y3lCdmNpQmtZWFJoYzJWMElIUmxjM1JsWVdKaklITnBkR1VRVW4xaEh6a19vZ0VDY0hRIiwicXVlc3Rpb24iOiJPIHF1ZSBvIHRlc3RlIEFCQyBhdmFsaWE/IiwibGsiOiJHaGh2SUhGMVpTQnZJSFJsYzNSbElHRmlZeUJoZG1Gc2FXRSIsImJzIjoiYy1PeTRwTDBWeWdzVFZYSVZ5aEpMUzVKVlhCMGNsWklMRXZNeVV5MGwyaVNONUtTa3NoSGtVOU1Tb2JLYzdsd3lRV1dwdVlxRk9TbkFNVUxjaktURTR1UXpiR1h1QzF1SkM4bFc0aFRFZEF3QVVZQSIsImlkIjoiZmNfUWRuZFo1S21MTnJDNC1FUDc3X2FtQTRfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGFYVnVOSHBWWlMxSU9ERlVOVU5NVmxKRVZqUnpURFJhTmtGMGFtMHdOMFoxTURJMVNIRk5jbmRpU1haYU1rdEJVRVZVUmxwdmFWSlJOVmh3WmtwdmNFMURjVXRQYW5kdlJta3pVMnhqTmxBd1FUaE1ka05EVGtaSlFSSVhVV1J1WkZvMVMyMU1UbkpETkMxRlVEYzNYMkZ0UVRRYUlrRkRSRmhNTkd0WFVIcG5TR1pEU1Y5amNEZG9ZbU5QUVZkcGRVRjBkakZ3T1hjIiwiZmN2IjoiMyIsImVpIjoiUWRuZFo1S21MTnJDNC1FUDc3X2FtQTQiLCJxYyI6IkNoNWtZV1J2Y3lCdmNpQmtZWFJoYzJWMElIUmxjM1JsWVdKaklITnBkR1VRVW4xaEh6a19vZ0VDY0hRIiwicXVlc3Rpb24iOiJPIHF1ZSBvIHRlc3RlIEFCQyBhdmFsaWE%2FIiwibGsiOiJHaGh2SUhGMVpTQnZJSFJsYzNSbElHRmlZeUJoZG1Gc2FXRSIsImJzIjoiYy1PeTRwTDBWeWdzVFZYSVZ5aEpMUzVKVlhCMGNsWklMRXZNeVV5MGwyaVNONUtTa3NoSGtVOU1Tb2JLYzdsd3lRV1dwdVlxRk9TbkFNVUxjaktURTR1UXpiR1h1QzF1SkM4bFc0aFRFZEF3QVVZQSIsImlkIjoiZmNfUWRuZFo1S21MTnJDNC1FUDc3X2FtQTRfMSJ9"
+        },
+        {
+            "question": "Quem pode aplicar o teste ABC?",
+            "snippet": "O teste tem por objetivo fornecer tanto um diagnóstico, quanto um prognóstico acerca da capacidade de alfabetização, podendo ser aplicado por qualquer educador que tivesse contato com seu guia de exame e dispusesse de seus materiais de aplicação.",
+            "title": "Os testes ABC - WikiHP - Portal História da Psicologia",
+            "date": "23 de nov. de 2023",
+            "link": "http://wiki.historiadapsicologia.com.br/index.php?title=Os_testes_ABC#:~:text=O%20teste%20tem%20por%20objetivo,de%20seus%20materiais%20de%20aplica%C3%A7%C3%A3o.",
+            "displayed_link": "http://wiki.historiadapsicologia.com.br › ...",
+            "source_logo": null,
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGFYVnVOSHBWWlMxSU9ERlVOVU5NVmxKRVZqUnpURFJhTmtGMGFtMHdOMFoxTURJMVNIRk5jbmRpU1haYU1rdEJVRVZVUmxwdmFWSlJOVmh3WmtwdmNFMURjVXRQYW5kdlJta3pVMnhqTmxBd1FUaE1ka05EVGtaSlFSSVhVV1J1WkZvMVMyMU1UbkpETkMxRlVEYzNYMkZ0UVRRYUlrRkRSRmhNTkd0WFVIcG5TR1pEU1Y5amNEZG9ZbU5QUVZkcGRVRjBkakZ3T1hjIiwiZmN2IjoiMyIsImVpIjoiUWRuZFo1S21MTnJDNC1FUDc3X2FtQTQiLCJxYyI6IkNoNWtZV1J2Y3lCdmNpQmtZWFJoYzJWMElIUmxjM1JsWVdKaklITnBkR1VRVW4xaEh6a19vZ0VDY0hRIiwicXVlc3Rpb24iOiJRdWVtIHBvZGUgYXBsaWNhciBvIHRlc3RlIEFCQz8iLCJsayI6IkdoMXhkV1Z0SUhCdlpHVWdZWEJzYVdOaGNpQnZJSFJsYzNSbElHRmlZdyIsImJzIjoiYy1PeTRwTDBWeWdzVFZYSVZ5aEpMUzVKVlhCMGNsWklMRXZNeVV5MGwyaVNONUtTa3NoSGtVOU1Tb2JLYzdsd3lRV1dwdVlxRk9TbkFNVUxjaktURTR1UXpiR1h1QzF1SkM4bFc0aFRFZEF3QVVZQSIsImlkIjoiZmNfUWRuZFo1S21MTnJDNC1FUDc3X2FtQTRfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobGFYVnVOSHBWWlMxSU9ERlVOVU5NVmxKRVZqUnpURFJhTmtGMGFtMHdOMFoxTURJMVNIRk5jbmRpU1haYU1rdEJVRVZVUmxwdmFWSlJOVmh3WmtwdmNFMURjVXRQYW5kdlJta3pVMnhqTmxBd1FUaE1ka05EVGtaSlFSSVhVV1J1WkZvMVMyMU1UbkpETkMxRlVEYzNYMkZ0UVRRYUlrRkRSRmhNTkd0WFVIcG5TR1pEU1Y5amNEZG9ZbU5QUVZkcGRVRjBkakZ3T1hjIiwiZmN2IjoiMyIsImVpIjoiUWRuZFo1S21MTnJDNC1FUDc3X2FtQTQiLCJxYyI6IkNoNWtZV1J2Y3lCdmNpQmtZWFJoYzJWMElIUmxjM1JsWVdKaklITnBkR1VRVW4xaEh6a19vZ0VDY0hRIiwicXVlc3Rpb24iOiJRdWVtIHBvZGUgYXBsaWNhciBvIHRlc3RlIEFCQz8iLCJsayI6IkdoMXhkV1Z0SUhCdlpHVWdZWEJzYVdOaGNpQnZJSFJsYzNSbElHRmlZdyIsImJzIjoiYy1PeTRwTDBWeWdzVFZYSVZ5aEpMUzVKVlhCMGNsWklMRXZNeVV5MGwyaVNONUtTa3NoSGtVOU1Tb2JLYzdsd3lRV1dwdVlxRk9TbkFNVUxjaktURTR1UXpiR1h1QzF1SkM4bFc0aFRFZEF3QVVZQSIsImlkIjoiZmNfUWRuZFo1S21MTnJDNC1FUDc3X2FtQTRfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "testes abc",
+            "link": "https://download.inep.gov.br/publicacoes/diversas/historia_da_educacao/testes_abc_para_a_verificacao_da_maturidade_necessaria_a_aprendizagem_da_leitura_e_da_escrita.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://download.inep.gov.br/publicacoes/diversas/historia_da_educacao/testes_abc_para_a_verificacao_da_maturidade_necessaria_a_aprendizagem_da_leitura_e_da_escrita.pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECBQQAQ",
+            "displayed_link": "https://download.inep.gov.br › diversas › testes_a...",
+            "snippet": "Com os dados parciais das oito provas dos Testes ABC pode-se levantar um pequeno perfil individual referente aos atributos considerados pelo exame, o que ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 203
+                    },
+                    "extensions": [
+                        "203 páginas"
+                    ]
+                }
+            },
+            "source": "inep.gov.br"
+        },
+        {
+            "position": 2,
+            "title": "Testes ABC no contexto da Escola Ipiranga/RS",
+            "link": "https://www.redalyc.org/journal/1171/117158942019/117158942019.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.redalyc.org/journal/1171/117158942019/117158942019.pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECBYQAQ",
+            "displayed_link": "https://www.redalyc.org › journal",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb0537a375c7fb3da2027e6483017676b5e21.png",
+            "snippet": "de R dos Santos Alves · 2019 —",
+            "source": "Redalyc.org"
+        },
+        {
+            "position": 3,
+            "title": "Quociente do Espectro do Autismo – Adultos (QA) 16+ anos",
+            "link": "https://docs.autismresearchcentre.com/tests/AQ_Portugues_Brasil.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.autismresearchcentre.com/tests/AQ_Portugues_Brasil.pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECBEQAQ",
+            "displayed_link": "https://docs.autismresearchcentre.com › tests › AQ...",
+            "snippet": "Como preencher este questionário. Abaixo está uma lista de afirmações. Leia cada uma delas com muita atenção e assinale em que medida você está ou não de ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 4
+                    },
+                    "extensions": [
+                        "4 páginas"
+                    ]
+                }
+            },
+            "source": "Autism Research Centre"
+        },
+        {
+            "position": 4,
+            "title": "alcatea – aplicativo de automatização de aplicação de testes",
+            "link": "https://periodicos.unifei.edu.br/index.php/rtic/article/download/28/22/62",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://periodicos.unifei.edu.br/index.php/rtic/article/download/28/22/62&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECBMQAQ",
+            "displayed_link": "https://periodicos.unifei.edu.br › rtic › article › download",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb053f3edd5c21c0084384a64b679fce2b6fa.png",
+            "snippet": "Neste trabalho, foi desenvolvida uma aplicação para dispositivos móveis, a qual o principal enfoque é automatizar testes psicológicos do transtorno do ...",
+            "source": "Universidade Federal de Itajubá - UNIFEI"
+        },
+        {
+            "position": 5,
+            "title": "DISSERTAÇÃO - IEDA BASSINELLO.pdf",
+            "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/125846/DISSERTA%C3%87%C3%83O%20-%20IEDA%20BASSINELLO.pdf?sequence=1&isAllowed=y",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.ufsc.br/bitstream/handle/123456789/125846/DISSERTA%25C3%2587%25C3%2583O%2520-%2520IEDA%2520BASSINELLO.pdf%3Fsequence%3D1%26isAllowed%3Dy&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECBIQAQ",
+            "displayed_link": "https://repositorio.ufsc.br › bitstream › handle",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb053d7b5a507eecaae06a0d84056d181f3b6.png",
+            "snippet": "de I Bassinello · 2014 · Citado por 7 —",
+            "source": "Repositório Institucional da UFSC"
+        },
+        {
+            "position": 6,
+            "title": "Manual do Curso ABC - Política Nacional de Alfabetização",
+            "link": "https://alfabetizacao.mec.gov.br/images/pdf/manual_do_curso_abc.PDF",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://alfabetizacao.mec.gov.br/images/pdf/manual_do_curso_abc.PDF&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECDkQAQ",
+            "displayed_link": "https://alfabetizacao.mec.gov.br › images › pdf",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb0533d2a7b6fc28557a08a9a4e1055e70616.png",
+            "snippet": "... Dados Internacionais de Catalogação na Publicação (CIP) de acordo com ISBD. A385. Alfabetização Baseada na Ciência: Manual do Curso ABC / Isabel. Alçada ...",
+            "snippet_highlighted_words": [
+                "Dados"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 557
+                    },
+                    "extensions": [
+                        "557 páginas"
+                    ]
+                }
+            },
+            "source": "Política Nacional de Alfabetização (PNA)"
+        },
+        {
+            "position": 7,
+            "title": "jane mara ferreira avaliação como medida: dos tests ...",
+            "link": "https://repositorio.ufba.br/bitstream/ri/32582/1/AVALIA%C3%87%C3%83O%20COMO%20MEDIDA_DOS%20TESTS%20MENTAIS%20AOS%20TESTES%20PEDAG%C3%93GICOS%20OU%20DE%20ISA%C3%8DAS%20ALVES%20A%20AFRO%20DO%20AMARAL%20FONTOURA%20(D%C3%89CADAS%20DE%201920%20A%201960).pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.ufba.br/bitstream/ri/32582/1/AVALIA%25C3%2587%25C3%2583O%2520COMO%2520MEDIDA_DOS%2520TESTS%2520MENTAIS%2520AOS%2520TESTES%2520PEDAG%25C3%2593GICOS%2520OU%2520DE%2520ISA%25C3%258DAS%2520ALVES%2520A%2520AFRO%2520DO%2520AMARAL%2520FONTOURA%2520(D%25C3%2589CADAS%2520DE%25201920%2520A%25201960).pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECDUQAQ",
+            "displayed_link": "https://repositorio.ufba.br › bitstream",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb0532ba5cc2f6f7f55e74db4049419655d77.png",
+            "snippet": "de JM Ferreira · 2021 —",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 50
+                    },
+                    "extensions": [
+                        "50 páginas"
+                    ]
+                }
+            },
+            "source": "Universidade Federal da Bahia"
+        },
+        {
+            "position": 8,
+            "title": "Diretrizes na Regulamentação da Profissão - SATEPSI",
+            "link": "https://satepsi.cfp.org.br/docs/diretrizes.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://satepsi.cfp.org.br/docs/diretrizes.pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECDMQAQ",
+            "displayed_link": "https://satepsi.cfp.org.br › docs › diretrizes",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb0538a501736f9a6f7e594477f93e043b59e.png",
+            "snippet": "Esse sistema oferece “acesso a um conjunto de documentos sobre a avaliação dos testes psicológicos realizada pelo CFP, tais como resoluções, editais, grupo de ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 196
+                    },
+                    "extensions": [
+                        "196 páginas"
+                    ]
+                }
+            },
+            "source": "SATEPSI"
+        },
+        {
+            "position": 9,
+            "title": "Aplicação da Bateria MABC-2 dos 7 aos 16 anos.",
+            "link": "https://comum.rcaap.pt/bitstream/10400.26/11912/1/TELMA_BESSA.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://comum.rcaap.pt/bitstream/10400.26/11912/1/TELMA_BESSA.pdf&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECDcQAQ",
+            "displayed_link": "https://comum.rcaap.pt › TELMA_BESSA",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb053b45fb54764cd4dc1d714455cb27b0821.png",
+            "snippet": "de TCCO Bessa · 2012 —",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 158
+                    },
+                    "extensions": [
+                        "158 páginas"
+                    ]
+                }
+            },
+            "source": "RCAAP - Repositórios Científicos de Acesso Aberto de Portugal"
+        },
+        {
+            "position": 10,
+            "title": "Influência da educação integral na prevalência de transtorno ...",
+            "link": "https://www.cadernosdeterapiaocupacional.ufscar.br/index.php/cadernos/article/download/798/567/2386",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cadernosdeterapiaocupacional.ufscar.br/index.php/cadernos/article/download/798/567/2386&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQFnoECDQQAQ",
+            "displayed_link": "https://www.cadernosdeterapiaocupacional.ufscar.br › ...",
+            "favicon": "https://serpapi.com/searches/67ddd940a515cc7672893235/images/e31745179ed342c7244cb1b4f03fb0535969429f2ea3ecb4f990b8bb428bbf25.png",
+            "snippet": "Resumo: Objetivos: Verificar a prevalência do Transtorno de Desenvolvimento da Coordenação (TDC) em crianças entre 7 e 10 anos de idade que participam do ...",
+            "source": "Cadernos Brasileiros de Terapia Ocupacional"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Teste ABC correção",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&q=Teste+ABC+corre%C3%A7%C3%A3o&sa=X&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Teste+ABC+corre%C3%A7%C3%A3o"
+        },
+        {
+            "block_position": 1,
+            "query": "Teste ABC para que serve",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&q=Teste+ABC+para+que+serve&sa=X&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Teste+ABC+para+que+serve"
+        },
+        {
+            "block_position": 1,
+            "query": "SATEPSI",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&q=SATEPSI&sa=X&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=SATEPSI"
+        },
+        {
+            "block_position": 1,
+            "query": "Teste de leitura e escrita Psicopedagogia",
+            "link": "https://www.google.com.br/search?sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&q=Teste+de+leitura+e+escrita+Psicopedagogia&sa=X&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Teste+de+leitura+e+escrita+Psicopedagogia"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=10&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=10&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=20&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAG",
+            "4": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=30&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAI",
+            "5": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=40&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAK",
+            "6": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=50&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAM",
+            "7": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=60&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAO",
+            "8": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=70&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAQ",
+            "9": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=80&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAS",
+            "10": "https://www.google.com.br/search?q=dados+or+dataset+++testeabc+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=QdndZ5KmLNrC4-EP77_amA4&start=90&sa=N&sstk=Af40H4XicPjz8wUcmdx1JhzZkepJajuQh6TOFYnNkGr4wzmbQyNv-t0EbsQwYjXbX0dTcwsf04_-kRJtJUonhbOkgiOF0eHxi-yatw&ved=2ahUKEwjSysyijpyMAxVa4TgGHe-fFuMQ8tMDegQICBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++testeabc+filetype%3Apdf+site%3A&start=90"
+        }
+    }
+}

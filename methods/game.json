@@ -1,0 +1,289 @@
+{
+    "search_metadata": {
+        "id": "67ddd9331f7eca4aa8bd807a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bf28eb3704d6bbab/67ddd9331f7eca4aa8bd807a.json",
+        "created_at": "2025-03-21 21:25:07 UTC",
+        "processed_at": "2025-03-21 21:25:07 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype%3Apdf+site%3A&oq=dados+or+dataset+++game+filetype%3Apdf+site%3A&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bf28eb3704d6bbab/67ddd9331f7eca4aa8bd807a.html",
+        "total_time_taken": 1.12
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados or dataset   game filetype:pdf site:",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados or dataset   game filetype:pdf site:",
+        "total_results": 161000000,
+        "time_taken_displayed": 0.3,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "entity_type": "related_questions"
+    },
+    "related_questions": [
+        {
+            "question": "Qual o nome do jogo dos dados?",
+            "snippet": null,
+            "title": "Visão geral criada por IA",
+            "link": "https://support.google.com/websearch?p=ai_overviews&hl=pt-BR",
+            "list": [
+                "Jogo de dados para dois ou mais jogadores  ",
+                "Também é conhecido como Yam, devido à popularidade de uma versão comercializada pela Grow nos anos 1970  ",
+                "Cada jogador joga os dados e marca uma das jogadas previstas em sua cartela  ",
+                "Jogo de dados de cassino que envolve muita ação e estratégia ",
+                "Para jogar, é preciso entender o pessoal da mesa de dados e onde eles estão localizados ",
+                "Jogo que combina coragem, blefe e estratégia ",
+                "O jogador lança dados e declara quantos de uma face específica acredita estar em jogo ",
+                "Jogo que usa dois dados e o objetivo é adivinhar qual foi a combinação de dados do jogador do lado ",
+                "Uma ótima maneira de testar o raciocínio lógico das crianças "
+            ],
+            "displayed_link": null,
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1UzbHJOSGROU1Y4d1FWWTBObDlNTUdac1YzWjVjRUo1WTJSTGFHMU5WSHBoYVRKZlZVWmpaMFZXZFhsRFltRXhlRzFVWjFaRk1VOWpibVo1WTIxTlNYUm5TR0ZuYlUxbVZFSTNkRE4yTUhWaVlqTkVOa3R2VkdkaWR4SVhUVGx1WkZvMlYzWkpkbDlPTlU5VlVEQTJVMEUwVVRRYUlrRkRSRmhNTkc1b00yWTBWWHBMTkVoaU1IZHJSRU5WUWxaMFRFRmhVVUp6Tm5jIiwiZmN2IjoiMyIsImVpIjoiTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTQiLCJxYyI6IkNocGtZV1J2Y3lCdmNpQmtZWFJoYzJWMElHZGhiV1VnYzJsMFpSQlNmWXo5TEQtaUFRSndkQSIsInF1ZXN0aW9uIjoiUXVhbCBvIG5vbWUgZG8gam9nbyBkb3MgZGFkb3M/IiwibGsiOiJjNU9TTFN4TnpGSElWOGpMejAxVlNNbFh5TXBQendmU3hRb3BpVUFTQUEiLCJicyI6ImMtTnk0WklMTEUzTVVjaFh5TXZQVFZWSXlWZkl5a19QQjlMRkNpbUpRTkplWXJLYWtieVViQ0UtUlZ4NlhNTC1Db1dscVFxSFZ5cWtKNEtVSkpZazJrdnNTalFTa1JMS3g1QVJZQVFBIiwiaWQiOiJmY19NOW5kWjZXdkl2X041T1VQMDZTQTRRNF8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1UzbHJOSGROU1Y4d1FWWTBObDlNTUdac1YzWjVjRUo1WTJSTGFHMU5WSHBoYVRKZlZVWmpaMFZXZFhsRFltRXhlRzFVWjFaRk1VOWpibVo1WTIxTlNYUm5TR0ZuYlUxbVZFSTNkRE4yTUhWaVlqTkVOa3R2VkdkaWR4SVhUVGx1WkZvMlYzWkpkbDlPTlU5VlVEQTJVMEUwVVRRYUlrRkRSRmhNTkc1b00yWTBWWHBMTkVoaU1IZHJSRU5WUWxaMFRFRmhVVUp6Tm5jIiwiZmN2IjoiMyIsImVpIjoiTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTQiLCJxYyI6IkNocGtZV1J2Y3lCdmNpQmtZWFJoYzJWMElHZGhiV1VnYzJsMFpSQlNmWXo5TEQtaUFRSndkQSIsInF1ZXN0aW9uIjoiUXVhbCBvIG5vbWUgZG8gam9nbyBkb3MgZGFkb3M%2FIiwibGsiOiJjNU9TTFN4TnpGSElWOGpMejAxVlNNbFh5TXBQendmU3hRb3BpVUFTQUEiLCJicyI6ImMtTnk0WklMTEUzTVVjaFh5TXZQVFZWSXlWZkl5a19QQjlMRkNpbUpRTkplWXJLYWtieVViQ0UtUlZ4NlhNTC1Db1dscVFxSFZ5cWtKNEtVSkpZazJrdnNTalFTa1JMS3g1QVJZQVFBIiwiaWQiOiJmY19NOW5kWjZXdkl2X041T1VQMDZTQTRRNF8xIn0%3D"
+        },
+        {
+            "question": "O que é game data?",
+            "snippet": "O Game data first, garante um processo tranquilo durante o jogo e permitem que o telefone prossiga com os dados do jogo em primeiro plano com alta prioridade para manter a qualidade da conexão estável e reduzir atrasos inesperados na rede.",
+            "title": "[Telefone] ROG Phone 5 Oque é a opção Game data first? - ASUS",
+            "link": "https://www.asus.com/br/support/faq/1045398/#:~:text=O%20Game%20data%20first%2C%20garante,reduzir%20atrasos%20inesperados%20na%20rede.",
+            "displayed_link": "https://www.asus.com › support › faq",
+            "source_logo": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/fa5afd362000924df31211954c8a4943f69c57e42769b37fea79014e3934efea.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1UzbHJOSGROU1Y4d1FWWTBObDlNTUdac1YzWjVjRUo1WTJSTGFHMU5WSHBoYVRKZlZVWmpaMFZXZFhsRFltRXhlRzFVWjFaRk1VOWpibVo1WTIxTlNYUm5TR0ZuYlUxbVZFSTNkRE4yTUhWaVlqTkVOa3R2VkdkaWR4SVhUVGx1WkZvMlYzWkpkbDlPTlU5VlVEQTJVMEUwVVRRYUlrRkRSRmhNTkc1b00yWTBWWHBMTkVoaU1IZHJSRU5WUWxaMFRFRmhVVUp6Tm5jIiwiZmN2IjoiMyIsImVpIjoiTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTQiLCJxYyI6IkNocGtZV1J2Y3lCdmNpQmtZWFJoYzJWMElHZGhiV1VnYzJsMFpSQlNmWXo5TEQtaUFRSndkQSIsInF1ZXN0aW9uIjoiTyBxdWUgw6kgZ2FtZSBkYXRhPyIsImxrIjoiR2hKdklIRjFaU0REcVNCbllXMWxJR1JoZEdFIiwiYnMiOiJjLU55NFpJTExFM01VY2hYeU12UFRWVkl5VmZJeWtfUEI5TEZDaW1KUU5KZVlyS2FrYnlVYkNFLVJWeDZYTUwtQ29XbHFRcUhWeXFrSjRLVUpKWWsya3ZzU2pRU2tSTEt4NUFSWUFRQSIsImlkIjoiZmNfTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTRfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1UzbHJOSGROU1Y4d1FWWTBObDlNTUdac1YzWjVjRUo1WTJSTGFHMU5WSHBoYVRKZlZVWmpaMFZXZFhsRFltRXhlRzFVWjFaRk1VOWpibVo1WTIxTlNYUm5TR0ZuYlUxbVZFSTNkRE4yTUhWaVlqTkVOa3R2VkdkaWR4SVhUVGx1WkZvMlYzWkpkbDlPTlU5VlVEQTJVMEUwVVRRYUlrRkRSRmhNTkc1b00yWTBWWHBMTkVoaU1IZHJSRU5WUWxaMFRFRmhVVUp6Tm5jIiwiZmN2IjoiMyIsImVpIjoiTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTQiLCJxYyI6IkNocGtZV1J2Y3lCdmNpQmtZWFJoYzJWMElHZGhiV1VnYzJsMFpSQlNmWXo5TEQtaUFRSndkQSIsInF1ZXN0aW9uIjoiTyBxdWUgw6kgZ2FtZSBkYXRhPyIsImxrIjoiR2hKdklIRjFaU0REcVNCbllXMWxJR1JoZEdFIiwiYnMiOiJjLU55NFpJTExFM01VY2hYeU12UFRWVkl5VmZJeWtfUEI5TEZDaW1KUU5KZVlyS2FrYnlVYkNFLVJWeDZYTUwtQ29XbHFRcUhWeXFrSjRLVUpKWWsya3ZzU2pRU2tSTEt4NUFSWUFRQSIsImlkIjoiZmNfTTluZFo2V3ZJdl9ONU9VUDA2U0E0UTRfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Criação de um Dataset da Plataforma de Jogos Digitais da ...",
+            "link": "https://monografias.ufop.br/bitstream/35400000/5120/6/MONOGRAFIA_DatasetEpicGames.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://monografias.ufop.br/bitstream/35400000/5120/6/MONOGRAFIA_DatasetEpicGames.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECCIQAQ",
+            "displayed_link": "https://monografias.ufop.br › bitstream › MONOG...",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e7da3b37aa3ee28d1c2c1cbdf4b0e2882c.png",
+            "date": "3 de nov. de 2022",
+            "snippet": "para coleta de dados diretamente no site da loja da Epic Games, das contas de jogos no. Twitter e de seus respectivos tweets por meio da API ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "site",
+                "Games"
+            ],
+            "source": "Biblioteca Digital de Trabalhos de Conclusão de Curso"
+        },
+        {
+            "position": 2,
+            "title": "SteamBR: a dataset for game reviews and evaluation of a ...",
+            "link": "https://repositorio.usp.br/directbitstream/e6fc8439-dc93-48a1-a1d9-cee8bf44e00c/3140681.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.usp.br/directbitstream/e6fc8439-dc93-48a1-a1d9-cee8bf44e00c/3140681.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECBsQAQ",
+            "displayed_link": "https://repositorio.usp.br › directbitstream",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e719f83e801e53666a76e2bbbdf5294999.png",
+            "author": "de GAZ Jorge",
+            "date": "2023",
+            "snippet": "Abstract. The digital revolution has led to exponential growth in user-generated content, including ratings and reviews, across numerous online platforms.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 6
+                    },
+                    "extensions": [
+                        "6 páginas"
+                    ]
+                }
+            },
+            "source": "Repositório da Produção USP"
+        },
+        {
+            "position": 3,
+            "title": "Game Data Mining",
+            "link": "https://scispace.com/pdf/game-data-mining-42okwnnu3u.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://scispace.com/pdf/game-data-mining-42okwnnu3u.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECA0QAQ",
+            "displayed_link": "https://scispace.com › pdf › game-data-mining-4...",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e7b8d8319068b18b9068e24cd4c1ce72f3.jpeg",
+            "snippet": "The data revolution in games – and everywhere else – calls for analysis methods that scale to with dataset size. The solution: game data mining.",
+            "snippet_highlighted_words": [
+                "game data mining"
+            ],
+            "source": "SciSpace"
+        },
+        {
+            "position": 4,
+            "title": "GameVis: Game Data Visualization for the Web",
+            "link": "https://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147631.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sbgames.org/sbgames2015/anaispdf/computacao-full/147631.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECBIQAQ",
+            "displayed_link": "https://www.sbgames.org › computacao-full",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e7b0d1a50c672982bff06dd15ebd71210f.png",
+            "author": "de VRMFJGR Maia",
+            "snippet": "Players can use data visualizations to improve their skills by acting based on the displayed data and bring out the best playing practices by making an ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 10
+                    },
+                    "extensions": [
+                        "10 páginas"
+                    ]
+                }
+            },
+            "source": "SBGames"
+        },
+        {
+            "position": 5,
+            "title": "Using FIFA Soccer video game data for soccer analytics",
+            "link": "https://www.dcc.ufmg.br/~fabricio/download/lssa_fifa_CR.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dcc.ufmg.br/~fabricio/download/lssa_fifa_CR.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECBMQAQ",
+            "displayed_link": "https://www.dcc.ufmg.br › download › lssa_fifa_CR",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e776b9a872d96e861ccc03d1baa0f14671.png",
+            "author": "de L Cotta",
+            "cited_by": "Citado por 34",
+            "snippet": "In this paper, we propose the use of a new dataset, the FIFA Soccer video game dataset, to better understand soccer. We describe the available data, justify ...",
+            "snippet_highlighted_words": [
+                "FIFA Soccer video game dataset"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 4
+                    },
+                    "extensions": [
+                        "4 páginas"
+                    ]
+                }
+            },
+            "source": "DCC/UFMG"
+        },
+        {
+            "position": 6,
+            "title": "A Brief Overview of Data Mining and Analytics in Games",
+            "link": "https://www.games.cg.jku.at/wp-content/uploads/2022/10/chapter1_GDABook.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.games.cg.jku.at/wp-content/uploads/2022/10/chapter1_GDABook.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECBQQAQ",
+            "displayed_link": "https://www.games.cg.jku.at › chapter1_GDABook",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e75aae44e1598ee0691f784a61cb756260.png",
+            "snippet": "Game analytics uses data mining techniques to discover patterns and to extract information from game-related data, especially player behavioral data. As it is ...",
+            "snippet_highlighted_words": [
+                "Game analytics uses data mining techniques"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 14
+                    },
+                    "extensions": [
+                        "14 páginas"
+                    ]
+                }
+            },
+            "source": "Johannes Kepler Universität Linz"
+        },
+        {
+            "position": 7,
+            "title": "Database-Supported Video Game Engines: Data-Driven ...",
+            "link": "https://btw.informatik.uni-rostock.de/download/tagungsband/E04-1.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://btw.informatik.uni-rostock.de/download/tagungsband/E04-1.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECDgQAQ",
+            "displayed_link": "https://btw.informatik.uni-rostock.de › tagungsband",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e7dadf0e6c2734dc5719603c1f8ba7f4e8.png",
+            "author": "de D O’Grady",
+            "cited_by": "Citado por 3",
+            "snippet": "To make this point and exemplify the similarities in database and game engine technology, we demonstrate a data-driven approach to generate maps for video games ...",
+            "snippet_highlighted_words": [
+                "game",
+                "games"
+            ],
+            "source": "BTW 2019"
+        },
+        {
+            "position": 8,
+            "title": "A Dataset for Machine Perception of Interactive Media",
+            "link": "https://cdn.aaai.org/ojs/16071/16071-13-19565-1-2-20210518.pdf",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://cdn.aaai.org/ojs/16071/16071-13-19565-1-2-20210518.pdf&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECDMQAQ",
+            "displayed_link": "https://cdn.aaai.org › ojs",
+            "author": "de BR Anderson",
+            "cited_by": "Citado por 7",
+            "extracted_cited_by": 7,
+            "date": "2021",
+            "snippet": "This lecture incor- porated examples of AI projects enabled by data, such as the. GameSage game recommendation engine (Ryan et al. 2016) and the GameSpace ...",
+            "snippet_highlighted_words": [
+                "game"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "páginas": 9
+                    },
+                    "extensions": [
+                        "9 páginas"
+                    ]
+                }
+            },
+            "source": "AAAI"
+        },
+        {
+            "position": 9,
+            "title": "The Data Horror Escape Room Game as a Successful Tool ...",
+            "link": "https://liberquarterly.eu/article/download/16089/24213/56003",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://liberquarterly.eu/article/download/16089/24213/56003&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECDEQAQ",
+            "displayed_link": "https://liberquarterly.eu › article › download",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e74430e7b9b0cc61db5b4f93193b1bf0e8.png",
+            "author": "de L Karvovskaya",
+            "date": "2025",
+            "snippet": "The game itself is available openly via https://sites.google.com/vu.nl/datahorror/. This paper explains how the escape room was built, and ...",
+            "snippet_highlighted_words": [
+                "https://sites.google.com/vu.nl/datahorror"
+            ],
+            "source": "LIBER Quarterly"
+        },
+        {
+            "position": 10,
+            "title": "SERIOUS GAMES FOR BUILDING DATA CAPACITY*",
+            "link": "https://hrcak.srce.hr/file/405971",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://hrcak.srce.hr/file/405971&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQFnoECDQQAQ",
+            "displayed_link": "https://hrcak.srce.hr › file",
+            "favicon": "https://serpapi.com/searches/67ddd9331f7eca4aa8bd807a/images/358bcc34f923090e17c007b2182e35e7238a0a2fbcb7a6e931fc160fe08bcef2.png",
+            "author": "de D Di Staso",
+            "date": "2022",
+            "snippet": "This research presents a review of serious games and discusses their potential for data capacity building. The games selected in the review are ...",
+            "snippet_highlighted_words": [
+                "games",
+                "games"
+            ],
+            "source": "Hrčak"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=10&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=10&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=20&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAG",
+            "4": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=30&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAI",
+            "5": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=40&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAK",
+            "6": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=50&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAM",
+            "7": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=60&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAO",
+            "8": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=70&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAQ",
+            "9": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=80&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAS",
+            "10": "https://www.google.com.br/search?q=dados+or+dataset+++game+filetype:pdf+site:&sca_esv=a9d9e6d3554a1a61&gl=br&hl=pt&ei=M9ndZ6WvIv_N5OUP06SA4Q4&start=90&sa=N&sstk=Af40H4VKH-_MaVZF-j1HELij_aVxwDMraKqHLdcfLCc8Ih_M3dcmg6aBgPYGk0-ZLLA7CCCEU8yZdw4-7t5_RvmyHX5J2drZx9I-5w&ved=2ahUKEwjllOybjpyMAxX_JrkGHVMSIOwQ8tMDegQICBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+or+dataset+++game+filetype%3Apdf+site%3A&start=90"
+        }
+    }
+}
