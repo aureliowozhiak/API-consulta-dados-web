@@ -1,0 +1,197 @@
+{
+    "search_metadata": {
+        "id": "67dd9b6ba3dfaac96320678c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8fe52ad629177c52/67dd9b6ba3dfaac96320678c.json",
+        "created_at": "2025-03-21 17:01:31 UTC",
+        "processed_at": "2025-03-21 17:01:31 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+asd+filetype%3Acsv&oq=dados+completos+de+asd+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8fe52ad629177c52/67dd9b6ba3dfaac96320678c.html",
+        "total_time_taken": 3.27
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de asd filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de asd filetype:csv",
+        "total_results": 2050,
+        "time_taken_displayed": 0.31,
+        "organic_results_state": "Results for exact spelling",
+        "query_feedback": {
+            "title": "Parece que não há correspondências boas para sua pesquisa",
+            "description": "Tente usar palavras que possam aparecer na página que você está procurando. Por exemplo, \"receitas de bolo\" em vez de \"como fazer um bolo\"."
+        }
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "TA_PRODUTO_SAUDE_SITE.csv - dados",
+            "link": "https://dados.anvisa.gov.br/dados/TA_PRODUTO_SAUDE_SITE.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.anvisa.gov.br/dados/TA_PRODUTO_SAUDE_SITE.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECCMQAQ",
+            "displayed_link": "https://dados.anvisa.gov.br › dados › TA_PRODUTO_S...",
+            "snippet": "... ASD, INC;ESTADOS UNIDOS DA AMÉRICA;05/05/1997;VIGENTE;03/05/2025 19:00:01 10150470073;250000017589729;Tubos;II;TUBO CORRUGADO PORTEX;61418042000131 ...",
+            "snippet_highlighted_words": [
+                "ASD"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 2,
+            "title": "https://repositorio.dados.gov.br/governo-politica/...",
+            "link": "https://repositorio.dados.gov.br/governo-politica/planejamento-orcamento/plano-plurianual/PPA_2008_2011/Programas_2008.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/governo-politica/planejamento-orcamento/plano-plurianual/PPA_2008_2011/Programas_2008.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECBgQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › Programas_2008",
+            "snippet": "... dados foram coletados no segundo semestre do referido ano e, de acordo com o cronograma do IBGE, a publicação dos resultados ocorrerá no primeiro trimestre ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 3,
+            "title": "https://dados.pbh.gov.br/datastore/dump/5efd61ce-8...",
+            "link": "https://dados.pbh.gov.br/datastore/dump/5efd61ce-8fef-47dc-b242-692efaf9c96c?bom=True",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.pbh.gov.br/datastore/dump/5efd61ce-8fef-47dc-b242-692efaf9c96c%3Fbom%3DTrue&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECBcQAQ",
+            "displayed_link": "https://dados.pbh.gov.br › datastore › dump",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b3176b2b2490097e89a65b33a6b121f606ea.png",
+            "snippet": "... ASD ENGENHARIA LTDA,,00735234000187,19-07-1995,OESTE 38,1618,7911200,AGENCIAS DE VIAGENS,\"7912100, 7990200\",SOCIEDADE EMPRESÁRIA LIMITADA,MICROEMPRESA - ME ...",
+            "snippet_highlighted_words": [
+                "ASD"
+            ],
+            "source": "Portal de Dados Abertos da PBH"
+        },
+        {
+            "position": 4,
+            "title": "comprasnet-contratos-diario-empenhos-2023-06-12..",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/06/12/comprasnet-contratos-diario-empenhos-2023-06-12.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2023/06/12/comprasnet-contratos-diario-empenhos-2023-06-12.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECA8QAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › seges › comprasnet-co...",
+            "date": "12 de jun. de 2023",
+            "snippet": "... DADOS LTDA,1000000000,,,339040,SERVICOS DE TECNOLOGIA DA INFORMACAO ... A S D DA ROCHA,1002000000,,,449052,EQUIPAMENTOS E MATERIAL ...",
+            "snippet_highlighted_words": [
+                "DADOS",
+                "A S D"
+            ],
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 5,
+            "title": "https://dadosabertos.capes.gov.br/ca/dataset/dbb9b...",
+            "link": "https://dadosabertos.capes.gov.br/ca/dataset/dbb9b83e-7779-4b99-89d2-1ff8099f36f6/resource/78f73608-6f5e-463c-ba79-0bff4f8a578d/download/br-capes-btd-2022-2023-10-31.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dadosabertos.capes.gov.br/ca/dataset/dbb9b83e-7779-4b99-89d2-1ff8099f36f6/resource/78f73608-6f5e-463c-ba79-0bff4f8a578d/download/br-capes-btd-2022-2023-10-31.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECA4QAQ",
+            "displayed_link": "https://dadosabertos.capes.gov.br › resource › download",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b317a5526d6d555b48764bb2b68471a80c6e.png",
+            "snippet": "... resultados da reunião dos dados sobre a composição nutricional das frutas pesquisadas incluíram os parâmetros: pH, acidez, umidade, cinzas, proteínas ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "Dados Abertos CAPES"
+        },
+        {
+            "position": 6,
+            "title": "https://www.gov.br/defesa/pt-br/arquivos/ajuste-01...",
+            "link": "https://www.gov.br/defesa/pt-br/arquivos/ajuste-01/dadosabertos/2021/submob/projeto-soldado-cidadao-eb-2020.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/defesa/pt-br/arquivos/ajuste-01/dadosabertos/2021/submob/projeto-soldado-cidadao-eb-2020.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECCQQAQ",
+            "displayed_link": "https://www.gov.br › projeto-soldado-cidadao-eb-2020",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b317efee343e3e2b3378efa393392886252f.jpeg",
+            "snippet": "... ASD;ASD;60h;5;5;R$: 7,50;2.250,00;1Ž 164;CMN;AP;Macapá;APROVADO PAGO;CFAP/34žBIS;Curso de Operador de Trator Agrícula;SEST/SENAT;MACAPÁ;ASD;ASD;100h;10;10;R ...",
+            "snippet_highlighted_words": [
+                "ASD",
+                "ASD",
+                "ASD",
+                "ASD"
+            ],
+            "source": "www.gov.br"
+        },
+        {
+            "position": 7,
+            "title": "https://dados.ma.gov.br/sites/default/files/DESPES...",
+            "link": "https://dados.ma.gov.br/sites/default/files/DESPESA_2022_10.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.ma.gov.br/sites/default/files/DESPESA_2022_10.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECC8QAQ",
+            "displayed_link": "https://dados.ma.gov.br › files › DESPESA_2022_10",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b317f07cc245350cd77152d92b434be10bb5.png",
+            "snippet": "... Dados;11;CONSULTAS;318;Gestão Legislativa;0101000000;Recursos Ordinários do Tesouro;3;Outras Despesas Correntes;4;Contratação por Tempo Determinado;4628 ...",
+            "snippet_highlighted_words": [
+                "Dados"
+            ],
+            "source": "Dados Abertos - MA"
+        },
+        {
+            "position": 8,
+            "title": "Exportar Metadados de Pesquisa",
+            "link": "https://app.uff.br/riuff;handl/discover/search/csv?query=*&scope=1~13697&filters=has_content_in_original_bundle_keyword:true",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://app.uff.br/riuff%3Bhandl/discover/search/csv%3Fquery%3D*%26scope%3D1~13697%26filters%3Dhas_content_in_original_bundle_keyword:true&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECDMQAQ",
+            "displayed_link": "https://app.uff.br › riuff",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b31784b8abb7f9c8c874fc19d7170c831dcd.png",
+            "snippet": "... dados para medições de fluxo de veículos, tempos de ciclo e verde efetivo. Houve a elaboração de uma pesquisa de tendência de interesse por possíveis ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "UFF - Universidade Federal Fluminense"
+        },
+        {
+            "position": 9,
+            "title": "https://www.cmv.es.gov.br/uploads/temp/documentos-...",
+            "link": "https://www.cmv.es.gov.br/uploads/temp/documentos-cmara-municipal-de-vitria-es-1735694936.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cmv.es.gov.br/uploads/temp/documentos-cmara-municipal-de-vitria-es-1735694936.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECCwQAQ",
+            "displayed_link": "https://www.cmv.es.gov.br › uploads › temp › document...",
+            "favicon": "https://serpapi.com/searches/67dd9b6ba3dfaac96320678c/images/e5c8633a26c878b53dff97ddf070b3179b181ae5e4d9badad5e5b6672f5a8254.png",
+            "snippet": "... dados pessoais e sensíveis, foram alterados e os dados tarjados.\";\"1\";\"\";\"2021-03-01 11:52:46\";\"\";\"2022\";\"\";\"Currículo dos Servidores\" \"3406\";\"18\";\"ATO DA ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "dados"
+            ],
+            "source": "CÂMARA MUNICIPAL DE VITÓRIA - ES"
+        },
+        {
+            "position": 10,
+            "title": "Download - Enquetes - Controladoria-Geral da União",
+            "link": "https://dadosabertos-download.cgu.gov.br/ConselhoUsuarios/ConselhoUsuarios_Enquetes.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dadosabertos-download.cgu.gov.br/ConselhoUsuarios/ConselhoUsuarios_Enquetes.csv&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQFnoECDUQAQ",
+            "displayed_link": "https://dadosabertos-download.cgu.gov.br › ConselhoUs...",
+            "snippet": "... documento de fé publica, ou seja, os dados nele inseridos são considerados verdadeiros. porém, foi publicado o decreto 9.278/18 regulamenta a lei 7.116/83 ...",
+            "snippet_highlighted_words": [
+                "dados"
+            ],
+            "source": "cgu.gov.br"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Anvisa",
+            "link": "https://www.google.com.br/search?sca_esv=48dfc91899ccc164&hl=pt&gl=br&q=Anvisa&sa=X&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQ1QJ6BAgrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Anvisa"
+        },
+        {
+            "block_position": 1,
+            "query": "Consulta Anvisa",
+            "link": "https://www.google.com.br/search?sca_esv=48dfc91899ccc164&hl=pt&gl=br&q=Consulta+Anvisa&sa=X&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQ1QJ6BAgqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=Consulta+Anvisa"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+asd+filetype:csv&sca_esv=48dfc91899ccc164&hl=pt&gl=br&ei=bZvdZ-_yJunR5NoPzvHnuQk&start=10&sa=N&sstk=Af40H4XxPlT_nakXuFOXlUxXhD-WkynzsTIv9KRggSOB71kZ-ddHNwq55JNik9ffmWOBEdnvSTosA_EcXgw-DW-xwT4dyAxHaLnKcQ&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQ8NMDegQICBAI",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+asd+filetype:csv&sca_esv=48dfc91899ccc164&hl=pt&gl=br&ei=bZvdZ-_yJunR5NoPzvHnuQk&start=10&sa=N&sstk=Af40H4XxPlT_nakXuFOXlUxXhD-WkynzsTIv9KRggSOB71kZ-ddHNwq55JNik9ffmWOBEdnvSTosA_EcXgw-DW-xwT4dyAxHaLnKcQ&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQ8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+asd+filetype:csv&sca_esv=48dfc91899ccc164&hl=pt&gl=br&ei=bZvdZ-_yJunR5NoPzvHnuQk&start=20&sa=N&sstk=Af40H4XxPlT_nakXuFOXlUxXhD-WkynzsTIv9KRggSOB71kZ-ddHNwq55JNik9ffmWOBEdnvSTosA_EcXgw-DW-xwT4dyAxHaLnKcQ&ved=2ahUKEwiv3Zan05uMAxXpKFkFHc74OZcQ8tMDegQICBAG"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+asd+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+asd+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+asd+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+asd+filetype%3Acsv&start=20"
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "search_metadata": {
+        "id": "67dd9babf16feb2c1afd173e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/19293ed240c26f0d/67dd9babf16feb2c1afd173e.json",
+        "created_at": "2025-03-21 17:02:35 UTC",
+        "processed_at": "2025-03-21 17:02:35 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+games+filetype%3Acsv&oq=dados+completos+de+games+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/19293ed240c26f0d/67dd9babf16feb2c1afd173e.html",
+        "total_time_taken": 1.33
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de games filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de games filetype:csv",
+        "total_results": 10600,
+        "time_taken_displayed": 0.38,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Global Video Game Sales Data",
+            "link": "https://eecs.csuohio.edu/~sschung/DSA460/videogamdata.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://eecs.csuohio.edu/~sschung/DSA460/videogamdata.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECCIQAQ",
+            "displayed_link": "https://eecs.csuohio.edu › ~sschung › DSA460 › videoga...",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efb18b072f0002b6e6d47323e288d564b11.png",
+            "snippet": "... Complete Saga,Wii,2007,Action,LucasArts,3.66,1.63,0,0.53,5.83 152,Resident Evil 2,PS,1998,Action,Virgin Interactive,1.88,1.47,2.02,0.45,5.82 153,Tekken 2,PS ...",
+            "source": "Cleveland State University"
+        },
+        {
+            "position": 2,
+            "title": "Baixar",
+            "link": "https://www.camara.leg.br/enquetes/posicionamentos/download/todos-posicionamentos?idEnquete=2293861&exibicao=undefined&ordenacao=undefined",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.camara.leg.br/enquetes/posicionamentos/download/todos-posicionamentos%3FidEnquete%3D2293861%26exibicao%3Dundefined%26ordenacao%3Dundefined&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECBkQAQ",
+            "displayed_link": "https://www.camara.leg.br › todos-posicionamentos",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efb8af9266eda92936a115c26f9d1f8a78c.png",
+            "snippet": "... Jogos é essencial para evitar que jogos de apostas e fantasy games possam se apossar da gamecultura para fugir da taxação, coisa que não está acontecendo ...",
+            "snippet_highlighted_words": [
+                "games"
+            ],
+            "source": "Portal da Câmara dos Deputados"
+        },
+        {
+            "position": 3,
+            "title": "Games",
+            "link": "https://assets.datacamp.com/production/repositories/6253/datasets/e38d26b5058377758d9dd9f1869eb9556b4a3e2b/games.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.datacamp.com/production/repositories/6253/datasets/e38d26b5058377758d9dd9f1869eb9556b4a3e2b/games.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECBwQAQ",
+            "displayed_link": "https://assets.datacamp.com › repositories › datasets › ga...",
+            "snippet": "... game is packed full of content and none of it feels like filler. even the boss rush manages to feel fresh by introducing some surprise bosses/boss variants ...",
+            "source": "DataCamp"
+        },
+        {
+            "position": 4,
+            "title": "CSV file",
+            "link": "https://research.google.com/youtube8m/csv/2/vocabulary.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.google.com/youtube8m/csv/2/vocabulary.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECBYQAQ",
+            "displayed_link": "https://research.google.com › csv › vocabulary",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efb330319e34998f92ab21035456e52f18d.png",
+            "snippet": "... Games,,,\"A game is structured form of play, usually undertaken for enjoyment ... complete a given task in the shortest amount of time. Typically this ...",
+            "snippet_highlighted_words": [
+                "Games"
+            ],
+            "source": "Google Research"
+        },
+        {
+            "position": 5,
+            "title": "https://raw.githubusercontent.com/pycaret/pycaret/...",
+            "link": "https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://raw.githubusercontent.com/pycaret/pycaret/master/datasets/amazon.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECBQQAQ",
+            "displayed_link": "https://raw.githubusercontent.com › datasets › amazon",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efb206b489ac2e15354479962db434a4e9d.png",
+            "snippet": "... game so does my btother,1 \"This is good if you like physics games, free games, or bird games. Not like free version on ipod. You get all the levels and the ...",
+            "snippet_highlighted_words": [
+                "games",
+                "games",
+                "games"
+            ],
+            "source": "GitHub"
+        },
+        {
+            "position": 6,
+            "title": "arrow_downward - Dados Abertos CAPES",
+            "link": "https://dadosabertos.capes.gov.br/sq/dataset/306ce80c-e676-497b-a8c3-42a55a4b7ecd/resource/8e66021e-565e-471d-bd5b-b15e3f8e6731/download/br-capes-colsucup-producao-2021a2024-2023-10-31-tecnica-editoria.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dadosabertos.capes.gov.br/sq/dataset/306ce80c-e676-497b-a8c3-42a55a4b7ecd/resource/8e66021e-565e-471d-bd5b-b15e3f8e6731/download/br-capes-colsucup-producao-2021a2024-2023-10-31-tecnica-editoria.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECCcQAQ",
+            "displayed_link": "https://dadosabertos.capes.gov.br › resource › download",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efbc4d70b6d334ef86abdb7316de634dbfc.png",
+            "snippet": "... GAMES, INTELIGÊNCIA ARTIFICIAL, REALIDADE VIRTUAL/AUMENTADA E COMPUTAÇÃO UBÍQUA;3;TÉCNICA;5;EDITORIA;15;TECNICA - EDITORIA;81501;EDUCAÇÃO;86248;COTIDIANOS ...",
+            "snippet_highlighted_words": [
+                "GAMES"
+            ],
+            "source": "Dados Abertos CAPES"
+        },
+        {
+            "position": 7,
+            "title": "Download - Dados Abertos - UFU",
+            "link": "https://dados.ufu.br/sites/default/files/acervo_de_periodicos_08.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.ufu.br/sites/default/files/acervo_de_periodicos_08.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECBUQAQ",
+            "displayed_link": "https://dados.ufu.br › files › acervo_de_periodicos_08",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efbb5f21f61200af4dc5ef2fca38ec85e04.png",
+            "snippet": "... Games, Jogos digitais, Simulação de cidades, Sustainable City;2023;8;42;54 66122;Maria Amélia Benincá de Farias;uso da teoria da ação de Alfred Schütz em ...",
+            "snippet_highlighted_words": [
+                "Games"
+            ],
+            "source": "Universidade Federal de Uberlândia"
+        },
+        {
+            "position": 8,
+            "title": "Empresas participantes - Portal Gov.br",
+            "link": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/beneficios-e-renuncias-fiscais/recine-cidada/empresa_cidada",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/beneficios-e-renuncias-fiscais/recine-cidada/empresa_cidada&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECCwQAQ",
+            "displayed_link": "https://www.gov.br › recine-cidada › empresa_cidada",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efb60b2ea22b18c30cbb2ab855540e555c9.jpeg",
+            "snippet": "... DADOS S/C LTDA;SP;SAO PAULO;8299799;30/04/2010; 00.214.753/0001-08;MAGIA DE ... GAMES;SP;SAO PAULO;4762800;30/01/2023; 03.714.129/0001-50;JULIANE ...",
+            "snippet_highlighted_words": [
+                "DADOS",
+                "GAMES"
+            ],
+            "source": "www.gov.br"
+        },
+        {
+            "position": 9,
+            "title": "Download - Dados Abertos",
+            "link": "https://dados.turismo.gov.br/dataset/0b80db43-0078-444e-9673-a35f21df489c/resource/5837f164-10ae-474f-ac64-c402cb97dafc/download/empreendimento-de-entretenimento-e-lazer-e-parque-aquatico.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://dados.turismo.gov.br/dataset/0b80db43-0078-444e-9673-a35f21df489c/resource/5837f164-10ae-474f-ac64-c402cb97dafc/download/empreendimento-de-entretenimento-e-lazer-e-parque-aquatico.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECCoQAQ",
+            "displayed_link": "https://dados.turismo.gov.br › resource › download › em...",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efbea9b31f585c0128048b3cd41aa2c9146.png",
+            "snippet": "... GAMES.COM.BR;-;31.313.772/0001-07;08/05/2022;Empreendimento de Entretenimento e Lazer;2100;- 13.249.672/0001-87;BRUNO HIDEO NUNES;RANCHO DO CARLOS LOPES ...",
+            "snippet_highlighted_words": [
+                "GAMES"
+            ],
+            "source": "GOV.BR"
+        },
+        {
+            "position": 10,
+            "title": "CSV",
+            "link": "https://www.navbrasil.gov.br/wp-content/uploads/2024/08/CCCP-CONTROLE-SITE-JUN-24-versao-atualizada-27-08.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.navbrasil.gov.br/wp-content/uploads/2024/08/CCCP-CONTROLE-SITE-JUN-24-versao-atualizada-27-08.csv&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQFnoECCsQAQ",
+            "displayed_link": "https://www.navbrasil.gov.br › uploads › 2024/08 › CCC...",
+            "favicon": "https://serpapi.com/searches/67dd9babf16feb2c1afd173e/images/dbd58b490a74c2b82ebd2df93a2b2efbe516446ea2edb41604a76e65a1491270.png",
+            "snippet": "... GAMES INFORMATICA);09.225.635/0001-61; MATERIAL PERMANENTE ; INVESTIMENTO ;SUPORTE P/ MONITORES;UM;2,000; R$ 380,00 ; R$ 760,00 ; ;;;;;;; MATERIAL DE ...",
+            "snippet_highlighted_words": [
+                "GAMES"
+            ],
+            "source": "NAV Brasil | Serviços de Navegação Aérea"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=10&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8NMDegQIBxAW",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=10&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=20&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAG",
+            "4": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=30&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAI",
+            "5": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=40&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAK",
+            "6": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=50&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAM",
+            "7": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=60&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAO",
+            "8": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=70&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAQ",
+            "9": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=80&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAS",
+            "10": "https://www.google.com.br/search?q=dados+completos+de+games+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=rJvdZ9GZHNKEwbkP1pWR2Qc&start=90&sa=N&sstk=Af40H4V5r01I4KzwGE4EgOx4PeHnYO9v6qryTAjqfmIAZZen2P5KtZufP1pheENRGTstLlky-Ttti3mKmsswIcqRObJnTqlAVjWEmA&ved=2ahUKEwjRn5HF05uMAxVSQjABHdZKJHsQ8tMDegQIBxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+games+filetype%3Acsv&start=90"
+        }
+    }
+}
