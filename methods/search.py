@@ -25,9 +25,7 @@ class Search:
         query = f"dados completos de {q} filetype:csv"
         url_api = f"https://serpapi.com/search.json?q={query}&location=State+of+Sao+Paulo,+Brazil&hl=pt&gl=br&google_domain=google.com.br&api_key={self.api_key}"
 
-        response = requests.get(url_api)
-
-        results = response.json()
+        results = requests.get(url_api).json()
 
         # Escreve os resultados formatados em um arquivo JSON
         with open(f"methods/{q}.json", "w", encoding="utf-8") as f:

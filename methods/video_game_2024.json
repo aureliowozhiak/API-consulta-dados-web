@@ -1,0 +1,189 @@
+{
+    "search_metadata": {
+        "id": "67dd9dc10665c14b82a172bc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6c1bc1bd09365a13/67dd9dc10665c14b82a172bc.json",
+        "created_at": "2025-03-21 17:11:29 UTC",
+        "processed_at": "2025-03-21 17:11:29 UTC",
+        "google_url": "https://www.google.com.br/search?q=dados+completos+de+video_game_2024+filetype%3Acsv&oq=dados+completos+de+video_game_2024+filetype%3Acsv&uule=w+CAIQICIZU3RhdGUgb2YgU2FvIFBhdWxvLEJyYXppbA&hl=pt&gl=br&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/6c1bc1bd09365a13/67dd9dc10665c14b82a172bc.html",
+        "total_time_taken": 1.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "dados completos de video_game_2024 filetype:csv",
+        "location_requested": "State of Sao Paulo, Brazil",
+        "location_used": "State of Sao Paulo,Brazil",
+        "google_domain": "google.com.br",
+        "hl": "pt",
+        "gl": "br",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "dados completos de video_game_2024 filetype:csv",
+        "total_results": 55200,
+        "time_taken_displayed": 0.31,
+        "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+        "spelling_fix": "dados completos de videogame 2024 filetype:csv",
+        "showing_results_for": "dados completos de videogame 2024 filetype:csv"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Baixar arquivo",
+            "link": "https://pncp.gov.br/api/pncp/v1/orgaos/13128780004350/pca/2024/csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://pncp.gov.br/api/pncp/v1/orgaos/13128780004350/pca/2024/csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBIQAQ",
+            "displayed_link": "https://pncp.gov.br › api › pncp › orgaos › pca › csv",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e31a775250a1e71237c1b8e03ce16c55932.jpeg",
+            "snippet": "... Data Desejada SECRETARIA MUNICIPAL DA FAZENDA;13128780004350;2;Material;DFD-0166/2024;DOCUMENTO DE FORMALIZAÇÃO DE DEMANDA SEMFAZ Nº 0166/2024;Outros ...",
+            "snippet_highlighted_words": [
+                "2024",
+                "2024"
+            ],
+            "source": "pncp.gov.br"
+        },
+        {
+            "position": 2,
+            "title": "Baixar arquivo",
+            "link": "https://pncp.gov.br/api/pncp/v1/orgaos/00378257000181/pca/2024/csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://pncp.gov.br/api/pncp/v1/orgaos/00378257000181/pca/2024/csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBYQAQ",
+            "displayed_link": "https://pncp.gov.br › api › pncp › orgaos › pca › csv",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e315013a70aba5fb8675fc64672f43ca215.jpeg",
+            "snippet": "4 de nov. de 2024 —",
+            "source": "GOV.BR"
+        },
+        {
+            "position": 3,
+            "title": "Clique aqui para exportação completa em formato CSV.",
+            "link": "https://www.ebc.com.br/acesso-a-informacao/exportar/licitacoes.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebc.com.br/acesso-a-informacao/exportar/licitacoes.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBkQAQ",
+            "displayed_link": "https://www.ebc.com.br › exportar › licitacoes",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e3112b490c6e081f88aae3f1f6bf3536a37.png",
+            "snippet": "... dados, acondicionamento e embalagem, de limpeza e produtos de higienização ... 2024, 2025 e 2026. Data da Publicação no D.O.U: 16/02/2022. Data de ...",
+            "snippet_highlighted_words": [
+                "dados",
+                "2024"
+            ],
+            "source": "EBC - Empresa Brasil de Comunicação"
+        },
+        {
+            "position": 4,
+            "title": "download 2024 CSV 401.85 MB",
+            "link": "https://sites.tcu.gov.br/dados-abertos/jurisprudencia/arquivos/acordao-completo/acordao-completo-2024.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://sites.tcu.gov.br/dados-abertos/jurisprudencia/arquivos/acordao-completo/acordao-completo-2024.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBEQAQ",
+            "displayed_link": "https://sites.tcu.gov.br › acordao-completo-2024",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e313cae0622c4a18f6e79bc926b7001d47c.png",
+            "snippet": "... 2024, conduzido pelo Tribunal Regional Eleitoral de Minas Gerais, tendo por objeto a aquisição de microcomputadores completos tipo desktop mini, conforme ...",
+            "snippet_highlighted_words": [
+                "2024",
+                "completos"
+            ],
+            "source": "Portal TCU"
+        },
+        {
+            "position": 5,
+            "title": "comprasnet-contratos-diario-terceirizados-2024",
+            "link": "https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2024/01/12/comprasnet-contratos-diario-terceirizados-2024-01-12.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://repositorio.dados.gov.br/seges/comprasnet_contratos/diario/2024/01/12/comprasnet-contratos-diario-terceirizados-2024-01-12.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBgQAQ",
+            "displayed_link": "https://repositorio.dados.gov.br › diario › 2024/01/12",
+            "snippet": "12 de jan. de 2024 —",
+            "source": "Portal de Dados Abertos"
+        },
+        {
+            "position": 6,
+            "title": "https://camarajoanesia.mg.gov.br/licitacoes/1/expo...",
+            "link": "https://camarajoanesia.mg.gov.br/licitacoes/1/export?format=csv&status=1",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://camarajoanesia.mg.gov.br/licitacoes/1/export%3Fformat%3Dcsv%26status%3D1&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBQQAQ",
+            "displayed_link": "https://camarajoanesia.mg.gov.br › licitacoes › export",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e3188de6ac732c6720d655406949ec97e64.png",
+            "snippet": "... Data de Abertura\" \"004\",\"2024\",\"Dispensa\",\"CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS EM SUPORTE DE INFORMÁTICA, REALIZANDO SERVIÇOS DE MANUTENÇÃO ...",
+            "snippet_highlighted_words": [
+                "2024"
+            ],
+            "source": "CÂMARA MUNICIPAL DE JOANÉSIA"
+        },
+        {
+            "position": 7,
+            "title": "Contratos Vigentes",
+            "link": "https://emater.df.gov.br/wp-content/uploads/2018/06/CONTRATOS-VIGENTES-GCONV-JULHO-E-AGOSTO-DE-2023-v-CSV.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://emater.df.gov.br/wp-content/uploads/2018/06/CONTRATOS-VIGENTES-GCONV-JULHO-E-AGOSTO-DE-2023-v-CSV.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECBMQAQ",
+            "displayed_link": "https://emater.df.gov.br › uploads › 2018/06 › CONTR...",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e316016ae5d6df4167d1033d0baa9968662.png",
+            "snippet": "... 2024;24/01/2022;0;0;0 00072-00002627/2022-10;001/2023;48271;14.387.382/0001-62;JCA COMERCIO DE ALIMENTOS LTDA;O presente CONTRATO tem por objeto a aquisição ...",
+            "snippet_highlighted_words": [
+                "2024"
+            ],
+            "source": "Emater-DF"
+        },
+        {
+            "position": 8,
+            "title": "https://www.gov.br/cetem/pt-br/acesso-a-informacao...",
+            "link": "https://www.gov.br/cetem/pt-br/acesso-a-informacao/dados-abertos/relacaoacervobiblioteca.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/cetem/pt-br/acesso-a-informacao/dados-abertos/relacaoacervobiblioteca.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECCwQAQ",
+            "displayed_link": "https://www.gov.br › pt-br › relacaoacervobiblioteca",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e318052d0d0e6a76b1d4db3f5a1aa9a13e7.jpeg",
+            "snippet": "... Dados sobre equipamentos semi-rudimentares usados na recuperação de ouro: alúvio, elúvio, coluvionar (construção, instalação e operação;5720 Acervo;622.331 ...",
+            "snippet_highlighted_words": [
+                "Dados"
+            ],
+            "source": "www.gov.br"
+        },
+        {
+            "position": 9,
+            "title": "https://www.camaraserra.es.gov.br/uploads/temp/liq...",
+            "link": "https://www.camaraserra.es.gov.br/uploads/temp/liquidacoes-de-00-00-0000-a-00-00-0000-camara-municipal-da-serra-es-1739793431.csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.camaraserra.es.gov.br/uploads/temp/liquidacoes-de-00-00-0000-a-00-00-0000-camara-municipal-da-serra-es-1739793431.csv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECC4QAQ",
+            "displayed_link": "https://www.camaraserra.es.gov.br › uploads › temp › liq...",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e314d1b2706720d93cffdb00d00d8c661b4.png",
+            "snippet": "... 2024\";\"\";\"2025\";\"97/2025\";\"\";\"\";\"\";\"\";\"\";\"\";\"\";\"101\";\"01.01.00\";\"01\";\"031 ... dados de 10 terabytes, incluindo a garantia de funcionamento e suporte ...",
+            "snippet_highlighted_words": [
+                "2024",
+                "dados"
+            ],
+            "source": "CÂMARA MUNICIPAL DA SERRA - ES"
+        },
+        {
+            "position": 10,
+            "title": "csv - Câmara Municipal de Major Sales",
+            "link": "https://camarademajorsales.rn.gov.br/dadosabertosexportar?d=contratos&a=&f=csv",
+            "redirect_link": "https://www.google.com.br/url?sa=t&source=web&rct=j&opi=89978449&url=https://camarademajorsales.rn.gov.br/dadosabertosexportar%3Fd%3Dcontratos%26a%3D%26f%3Dcsv&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQFnoECC0QAQ",
+            "displayed_link": "https://camarademajorsales.rn.gov.br › dadosabertosexp...",
+            "favicon": "https://serpapi.com/searches/67dd9dc10665c14b82a172bc/images/32ca994f68c5780435aa46a5a9de8e31d2a6eda2cdd7b5429e09c395481b6da2.png",
+            "snippet": "... 2024-12-23,\"Contratação de empresa especializada para fornecimento de ... DADOS, PARA ENCERRAMENTO E TRANSIÇÃO DE MANDATO, A FIM DE ATENDER DEMANDA DA ...",
+            "snippet_highlighted_words": [
+                "2024",
+                "DADOS"
+            ],
+            "source": "camarademajorsales.rn.gov.br"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=10&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8NMDegQICBAU",
+        "other_pages": {
+            "2": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=10&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAE",
+            "3": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=20&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAG",
+            "4": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=30&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAI",
+            "5": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=40&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAK",
+            "6": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=50&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAM",
+            "7": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=60&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAO",
+            "8": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=70&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAQ",
+            "9": "https://www.google.com.br/search?q=dados+completos+de+videogame+2024+filetype:csv&sca_esv=48dfc91899ccc164&gl=br&hl=pt&ei=wp3dZ9ipL9fv4-EPuNPd4QM&start=80&sa=N&sstk=Af40H4V-ZZyL8bRF5XLAf1k-6QZmYPX4IYx3B--Qcb5nKQvWwiMbLVKikxNnviJtRZFUqukc4X1irDDjfUoSZ4kyHr_nw4OVjRZeJA&ved=2ahUKEwjYkvXD1ZuMAxXX9zgGHbhpNzwQ8tMDegQICBAS"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=br&google_domain=google.com.br&hl=pt&location=State+of+Sao+Paulo%2C+Brazil&q=dados+completos+de+videogame+2024+filetype%3Acsv&start=80"
+        }
+    }
+}

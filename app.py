@@ -11,7 +11,15 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return """
+    <h1>API de Consulta de Dados</h1>
+    <form action="/search" method="get">
+        <label for="q">Digite sua busca:</label>
+        <input type="text" id="q" name="q" placeholder="Ex: games">
+        <button type="submit">Buscar</button>
+    </form>
+    <p>Use a rota /search?q=termo para buscar dados diretamente.</p>
+    """
 
 @app.route("/search", methods=['GET'])
 def search():
